@@ -1,0 +1,1097 @@
+date_key,calendar_date_text,calendar_year,month_number,month_name,quarter,day_name,is_weekend,holiday_label
+20230101, 2023-01-01 ,2023,1,January,Q1,Sunday,Y,New Year / Republic Day
+20230102,02 January 2023,2023,01,January,Q1,Monday,N,New Year / Republic Day
+20230103,2023.01.03,2023,01,January,Q1,Tuesday,N,New Year / Republic Day
+20230104,2023-01-04,2023,1,JANUARY,Q1,Wednesday ,N,New Year / Republic Day
+20230105,2023/01/05 00:00:00,2023,1,January,Q1,Thursday,N,New Year / Republic Day
+20230106,01/06/2023,2023,1,January,q1,friday,N,New Year / Republic Day
+20230107,2022.12.08,2023,1,January,Q1,Saturday,Y,New Year / Republic Day
+20230108,2023.01.08,2023,01,january,1,Sunday,Y,New Year / Republic Day
+20230109,09/01/2023,2023,01,January,q1,Monday,N,New Year / Republic Day
+20230110,10-Jan-22,2023,1,January,Q1,Tuesday,N,New Year / Republic Day
+20230111,01/11/2023,2023,1,January,Q1,Wednesday,N,new year / republic day
+20230112,12 January 2023,2023,1,January,Q1,Thursday,N,New Year / Republic Day
+20230113,2023/01/13 00:00:00,2023,01,January ,1,Friday,N,New Year / Republic Day
+20230114,14 January 2023,2023,1,January,1,Saturday,Y,New Year / Republic Day
+20230115,01/15/2023,2023,1,January,Q1,Sunday,Y,new year / republic day
+20230116,16-Jan-23,2023,01,January,Q1,Monday,N,New Year / Republic Day
+20230117,17-Jan-23,2023,01,January,Q1,Tuesday,N,New Year / Republic Day
+20230118,18 January 2024,2023,1,January,Q1,Wednesday,N,New Year / Republic Day
+20230119,2023-01-19,2023,1,January ,Q1,Thursday,N,New Year / Republic Day
+20230120,2023.01.20,2023,01,January,Q1,Friday,N,New Year / Republic Day
+20230121,21 January 2023,2023,01,January,Q1,Saturday,Y,New Year / Republic Day
+20230122,2023.01.22,2023,1,Jan,Q1,Sunday,Y,New Year / Republic Day
+20230123,2023.01.23,2023,1,January,Q1,MONDAY,N,New Year / Republic Day
+20230124,2023.01.24,2023,1,JANUARY,Q1,Tuesday,Weekday,New Year / Republic Day
+20230125,01/25/2023,2023,1,January,Q1,Wednesday,N,NEW YEAR / REPUBLIC DAY
+20230126,2023-01-26,2023,1,january,Q1,Thursday,N,New Year / Republic Day
+20230127,2023-01-27,2023,01,January,Q1,Friday,N,New Year / Republic Day
+20230128,28 January 2023,2023,1,January,Q1,Saturday,Y,New Year / Republic Day
+20230129,29 January 2023,2023,1,January,Q1,Sunday,Y,New Year / Republic Day
+20230130,30/01/2023,2023,1,January,Q1,Monday,N,New Year / Republic Day
+20230131,31 January 2023,FY2023,1,January,Q1,Tuesday,N,REGULAR TRADING
+20230201,01 February 2023,2023,2,February,1,Wednesday,N,Regular Trading
+20230202,2023-02-02,2023,2,February,Quarter 1,Thursday ,N,Regular Trading
+20230203,02/03/2023,2023,02,February,Q1,Friday,N,Regular Trading
+20230204,04-Feb-23,2023,2,Feb,Q1,saturday,Y,Regular Trading
+20230205,2023.02.05,2023,2,February,Q1,Sunday,Y,Regular Trading
+20230206,2023.02.06,2023,2,February ,Q1,Monday,N,Regular Trading
+20230207,07/02/2023,2023,2,February,Q1,Tuesday,N,Regular Trading
+20230208,08 February 2023,2023,2,February,Q1,Wednesday,FALSE,Regular Trading
+20230209,02/09/2023,2023,2,February ,q1,Thursday,N,Regular Trading
+20230210,2023/02/10 00:00:00,2023,2,February,Q1,Friday,N,Regular Trading
+20230211,2023.02.11,2023,2,February,Q1,Saturday ,Y,Regular Trading
+20230212,12/02/2023,2023,2,February,Q1,sunday,Y,Regular Trading
+20230213,2023-02-13,2023,02,February,Q1,Monday,N,Regular Trading
+20230214,14 February 2023,2023,2,February,Quarter 1,Tuesday,N,Regular Trading
+20230215, 02/15/2023 ,2023,02,February,Q1,Wednesday,N,Regular Trading
+20230216,16-Feb-23,2023,02,February,Q1,Thursday,N,Regular Trading
+20230217,02/17/2023,2023,2,February,Q1,Friday,N,Regular Trading
+20230218,18-Feb-23,2023,2,February ,Q1,Sat,Y,Regular Trading
+20230219,2023.02.19,2023,02,February,Q1,Sunday,Y,Regular Trading
+20230220,20/02/2023,2023,2,February,Q1,Monday,N,Regular Trading
+20230221,21/02/2023,2023,2,February,Q1,TUESDAY,N,Regular Trading
+20230222,22/02/2023,2023,2,February,Q1,Wednesday,N,Regular Trading
+20230223,2023.02.23,2023,2,February,1,Thursday,N,Regular Trading
+20230224,24-Feb-23,2023,2,FEBRUARY,Q1,Friday,N,na
+20230225,2023-02-25,2023,02,February,Q1,Saturday,Y,Regular Trading
+20230226,26/02/2023,2023,2,February ,Q1,Sunday,Y,Regular Trading
+20230227,2023-02-27,2023,2,February,Q1,Monday,N,Regular Trading
+20230228,2023/02/28 00:00:00,2023,2,February,Q1,Tuesday,N,Regular Trading
+20230301,01/03/2023,2023,3,March,Q1,Wednesday,N,Spring Upgrade
+20230302,2023/03/02 00:00:00,2023,3,MARCH,Q1,Thursday,N,Spring Upgrade
+20230303,03 March 2023,2023,3,March ,Q1,Friday,N,Spring Upgrade
+20230304,2023/03/04 00:00:00,2023,3,March,Q1,Saturday,Y,Spring Upgrade
+20230305,2023-03-05,23,3,March,Q1,Sunday,Y,Spring Upgrade
+20230306,06/03/2023,2023,3,March,q1,Monday,N,spring upgrade
+20230307,2023.03.07,2023,3,March,Q1,Tuesday,Weekday,Spring Upgrade
+20230308,03/08/2023,2023,03,MARCH,Q1,Wednesday,N,Spring Upgrade
+20230309,09-Mar-23,2023,3,March,Q1,THURSDAY,N,Spring Upgrade
+20230310,10 March 2023,2023,3,March,Q1,Friday,N,Spring Upgrade
+20230311,11 March 2023,2023,3,March,Q1,Saturday,Y,Spring Upgrade
+20230312,03/12/2023,2023,03,March,Q1,Sunday,Y,
+20230313,2023/03/13 00:00:00,2023,3,March,Q1,MONDAY,N,Spring Upgrade
+20230314,2023-03-14,2023,3,March,Q1,Tuesday,N,Spring Upgrade
+20230315,2023.03.15,2023,3,March ,Q1,Wednesday,N,spring upgrade
+20230316,2023-03-16,2023,3,March,Q1,Thursday,N,Spring Upgrade
+20230317,2023/03/17 00:00:00,2023,3,March,Q1,Friday,N,Spring Upgrade
+20230318,18-Mar-23,2023,3,Mar,Q1,Saturday,Y,Spring Upgrade
+20230319,03/19/2023,2023,3,March,Q1,Sunday,Y,Spring Upgrade
+20230320,20-Mar-23,2023,3,March,Q1,Monday,N,Spring Upgrade
+20230321,2023/03/21 00:00:00,2023,3,March,q1,Tuesday,N,Spring Upgrade
+20230322,22/03/2023,FY2023,3,March,Q1,Wednesday,N,Spring Upgrade
+20230323,2023-03-23,2023,03,March,1,Thursday,0,Spring Upgrade
+20230324,23 March 2024,2023,3,March,Q1,Friday,N,Spring Upgrade
+20230325,25-Mar-23,2023,3,March,Q1,Saturday,Y,Spring Upgrade
+20230326,2023-03-26,2023,3,March,Q1,Sunday,Y,Spring Upgrade
+20230327, 27/03/2023 ,2023,03,March,Q1,Monday,FALSE,SPRING UPGRADE
+20230328,2023/03/28 00:00:00,2023,3,March,Q1,Tuesday,N,Spring Upgrade
+20230329,2023-03-29,2023,3,march,Q1,Wednesday,N,Spring Upgrade
+20230330,2023/03/30 00:00:00,2023,3,March,Q1,Thursday,N,spring upgrade
+20230331,2023.03.31,2023,03,March,Q1,Friday,N,Spring Upgrade
+20230401,01/04/2023,2023,04,april,Q2,SATURDAY,Y,Regular Trading
+20230402,02/04/2023,2023,4,April,Q2,Sunday,TRUE,Regular Trading
+20230403,03/04/2023,2023,4,April,Q2,Monday,N,Regular Trading
+20230404,04/04/2023,2023,4,April,Q2,Tuesday,N,Regular Trading
+20230405,05 April 2023,2023,4,April ,Q2,Wednesday,N,Regular Trading
+20230406,2023-04-06,2023,04,April,Q2,Thursday,N,Regular Trading
+20230407,2023-04-07,2023,04,APRIL,q2,Friday,N,Regular Trading
+20230408,2023.04.08,2023,4,April,Quarter 2,Saturday,1,Regular Trading
+20230409,2023-04-09,FY2023,Apr,April,Q2,Sunday,TRUE,REGULAR TRADING
+20230410,2023-04-10,2023,4,April,Q2,Monday,Weekday,Regular Trading
+20230411, 2023/04/11 00:00:00 ,2023,4,April,Q2,Tuesday,N,Regular Trading
+20230412,04/12/2023,2023,4,April ,Q2,Wednesday,N,Regular Trading
+20230413,2023.04.13,2023,04,April,Q2,thursday,N,Regular Trading
+20230414,04/14/2023,2023,4,April ,Q2,FRIDAY,N,Regular Trading
+20230415,15-Apr-23,2023,04,April,q2,Saturday,Y,Regular Trading
+20230416,04/16/2023,2023,4,April ,Q2,Sunday,Y,Regular Trading
+20230417,17 April 2023,2023,4,Apr,Q2,Monday,N,Regular Trading
+20230418,04/18/2023,2023,4,April,Quarter 2,TUESDAY,N,Regular Trading
+20230419,19-Apr-23,2023,4,Apr,Q2,Wednesday,N,Regular Trading
+20230420,2023-04-20,2023,4,April,Q2,Thursday,N,Regular Trading
+20230421,21-Apr-23,2023,4,April,Q2,Friday,N,Regular Trading
+20230422,2023-04-22,2023,4,April,Q2,Saturday,Y,Regular Trading
+20230423,04/23/2023,2023,4,April,Q2,Sunday ,Y,Regular Trading
+20230424,24 April 2023,2023,04,April,Q2,Mon,Weekday,Regular Trading
+20230425,2023-04-25,2023,4,April,Q2,TUESDAY,N,Regular Trading
+20230426,26/04/2023,2023,Apr,APRIL,Q2,Wednesday,N,regular trading
+20230427,04/27/2023,2023,04,APRIL,Q2,Thursday,N,Regular Trading
+20230428,2023.04.28,2023,4,April,Q2,Friday,FALSE,Regular Trading
+20230429,2023.04.29,2023,4,April,Q2,Saturday,Y,Regular Trading
+20230430,30 April 2023,2023,4,april,Q2,Sunday,Y,Regular Trading
+20230501,2023/05/01 00:00:00,2023,5,May,Q2,Monday,N,Summer Tech Fest
+20230502,05/02/2023,2023,5,May,Q2,Tuesday,FALSE,Summer Tech Fest
+20230503,03-May-23,2023,5,May,Q2,WEDNESDAY,N,Summer Tech Fest
+20230504,04/05/2023,2023,5,May,Q2,Thursday,N,Summer Tech Fest
+20230505,2023.05.05,2023,5,May,Q2,Friday,N,Summer Tech Fest
+20230506,06-May-23,2023,5,May,Quarter 2,Saturday,Y,Summer Tech Fest
+20230507,05/07/2023,2023,5,May,Q2,sunday,Y,Summer Tech Fest
+20230508,2023-05-08,2023,5,may,Q2,Monday,N,Summer Tech Fest
+20230509,09-May-23,2023,5,May,Q2,Tuesday,N,Summer Tech Fest
+20230510,10-May-23,2023,5,May,Q2,Wednesday,Weekday,Summer Tech Fest
+20230511,2023/05/11 00:00:00,2023,5,May,Q2,Thursday,N,Summer Tech Fest
+20230512,12-May-23,2023,5,may,Q2,Friday,N,Summer Tech Fest
+20230513,2023.05.13,2023,5,May,Q2,Saturday,Y,Summer Tech Fest
+20230514,05/14/2023,2023,5,MAY,Quarter 2,Sunday,Y,Summer Tech Fest
+20230515,15-May-23,2023,5,May,Q2,Monday,N,Summer Tech Fest
+20230516,16 May 2023,2023,5,May,Quarter 2,tuesday,N,Summer Tech Fest
+20230517,2023.05.17,2023,5,May ,Q2,Wednesday,N,Summer Tech Fest
+20230518,2023.05.18,2023,5,May,Quarter 2,Thursday,N,Summer Tech Fest
+20230519,2023-05-19,2023,5,May,Q2,friday,N,summer tech fest
+20230520,2023.05.20,2023,5,May,Q2,Saturday,Y,Summer Tech Fest
+20230521,21/05/2023,2023,05,May,Q2,Sunday,Y,Summer Tech Fest
+20230522,22 May 2023,2023,5,May,q2,Monday,N,Summer Tech Fest
+20230523, 2023/05/23 00:00:00 ,2023,5,May,Q2,Tuesday,N,Summer Tech Fest
+20230524,2023.05.24,2023,5,May,q2,Wednesday,N,Summer Tech Fest
+20230525,2023-05-25,2023,5,may,Quarter 2,Thursday,N,Summer Tech Fest
+20230526,26 May 2023,2023,5,May,Q2,Friday,N,Summer Tech Fest
+20230527,2023-05-27,2023,5,May,Q2,Saturday,Y,Summer Tech Fest
+20230528,05/28/2023,2023,5,May,Q2,Sunday,Y,Summer Tech Fest
+20230529,2023/05/29 00:00:00,2023,5,May,Q2,Monday,N,Summer Tech Fest
+20230530,00/12/2023,2023,5,May,Q2,Tue,N,Summer Tech Fest
+20230531,05/31/2023,2023,05,May,Quarter 2,wednesday,N,Summer Tech Fest
+20230601, 01 June 2023 ,2023,6,June,Quarter 2,Thursday,N,Summer Tech Fest
+20230602,2023.06.02,2023,06,June,Q2,Friday,N,Summer Tech Fest
+20230603,03 June 2023,2023/,06,June,Q2,Saturday,Y,Summer Tech Fest
+20230604,04-Jun-23,2023,06,June,Q2,Sunday,Y,Summer Tech Fest
+20230605,2023-06-05,2023,6,June,Q2,Monday,N,Summer Tech Fest
+20230606,06/06/2023,2023,06,June,Q2,Tuesday,N,Summer Tech Fest
+20230607,07-Jun-23,2023,6,June,Q2,Wednesday,N,Summer Tech Fest
+20230608,08 June 2023,2023,06,June,Q2,Thu,N,SUMMER TECH FEST
+20230609,2023/06/09 00:00:00,2023,6,June,Q2,Fri,N,Summer Tech Fest
+20230610,2023/06/10 00:00:00,2023,06,June ,Q2,Saturday ,Y,Summer Tech Fest
+20230611,2023-06-11,2023,6,June,Q2,Sunday,Y,Summer Tech Fest
+20230612,12-Jun-23,2023,6,JUNE,Q2,Monday,N,Summer Tech Fest
+20230613,13/06/2023,2023,6,June,Q2,Tuesday,N,Summer Tech Fest
+20230614,2023/06/14 00:00:00,2023,6,june,Q2,Wed,N,Summer Tech Fest
+20230615,2023/06/15 00:00:00,2023,6,JUNE,Quarter 2,Thu,N,SUMMER TECH FEST
+20230616,2023-06-16,FY2023,6,June,Q2,Friday,N,Summer Tech Fest
+20230617,17 June 2023,2023,6,June,Q2,Saturday,Y,SUMMER TECH FEST
+20230618,06/18/2023,2023,06,JUNE,Q2,Sunday,Y,Summer Tech Fest
+20230619,2023/06/19 00:00:00,2023,06,June,Q2,Monday,N,Summer Tech Fest
+20230620,20-Jun-23,2023,6,June,Q2,tuesday,N,Summer Tech Fest
+20230621,06/21/2023,2023,6,June,Q2,Wednesday,N,Summer Tech Fest
+20230622,22-Jun-23,2023,6,June,Q2,Thursday,N,SUMMER TECH FEST
+20230623,23-Jun-23,2023,6,June,Q2,Friday,N,Summer Tech Fest
+20230624,24/06/2023,2023,6,June,Q2,Saturday,Y,Summer Tech Fest
+20230625,2023.06.25,2023,6,June,Q2,Sunday,Weekend,Summer Tech Fest
+20230626,2023.06.26,2023,6,June,Q2,MONDAY,N,Summer Tech Fest
+20230627,27-Jun-23,2023,6,June,Q2,Tuesday,N,Summer Tech Fest
+20230628,2023.06.28,2023,6,June,Q2,Wednesday,N,Summer Tech Fest
+20230629,2023-06-29,2023,06,June,Q2,Thursday,N,Summer Tech Fest
+20230630,06/30/2023,2023,6,June,Q2,Friday,N,Summer Tech Fest
+20230701,01 July 2023,2023,7,July,Q3,Saturday,Y,Back to Campus
+20230702,2023-07-02,2023,07,July,Q3,Sunday,Weekend,Back to Campus
+20230703,2023/07/03 00:00:00,2023,7,July,Q3,Monday,N,Back to Campus
+20230704,04 July 2023,2023,7,JULY,q3,Tuesday,N,Back to Campus
+20230705,07/05/2023,2023,7,July ,Q3,Wednesday,N,Back to Campus
+20230706,2023-07-06,2023,7,July,Q3,Thursday,Weekday,Back to Campus
+20230707,07-Jul-23,2023/,7,July,Q3,Fri,N,Back to Campus
+20230708,08 July 2023,2023,7,JULY,Quarter 3,Saturday,Y,Back to Campus
+20230709,09 July 2023,2023,7,July,Q3,Sunday,Y,Back to Campus
+20230710,10-Jul-23,2023,7,July,Q3,Monday,N,Back to Campus
+20230711,07/11/2023,2023,07,July,Q3,Tuesday,N,Back to Campus
+20230712, 12/07/2023 ,2023,07,July ,Q3,Wednesday,N,Back to Campus
+20230713,2023/07/13 00:00:00,2023,7,July,Q3,Thursday,N,Back to Campus
+20230714,14 July 2023,2023,7,July,3,FRIDAY,N,Back to Campus
+20230715,15 July 2023,2023,7,July,Q3,Saturday,Y,Back to Campus
+20230716,07/16/2023,2023,7,Jul,Q3,Sunday,TRUE,Back to Campus
+20230717,2023-07-17,2023,07,JULY,Q3,Monday,FALSE,Back to Campus
+20230718,18-Jul-23,2023,7,July,Q3,Tuesday,N,Back to Campus
+20230719,19-Jul-23,2023,7,July,Q3,Wednesday,N,Back to Campus
+20230720,2023.07.20,2023,7,july,Q3,Thursday,N,Back to Campus
+20230721,2023-07-21,2023,7,July,Q3,Friday,N,Back to Campus
+20230722,2023-07-22,2023,7,July,Q3,Saturday,Y,Back to Campus
+20230723,23-Jul-23,2023,7,July,Q3,Sunday,Y,Back to Campus
+20230724,07/24/2023,2023,7,July,Q3,Monday,N,Back to Campus
+20230725,2023-07-25,2023,7,July,Q3,tuesday,N,BACK TO CAMPUS
+20230726,2023.07.26,2023,7,July,Q3,Wednesday,N,Back to Campus
+20230727,27/07/2023,2023,7,July,Q3,Thursday,N,Back to Campus
+20230728,28-Jul-23,2023,7,July,Q3,Friday,N,Back to Campus
+20230729,07/29/2023,2023,7,July,Q3,Saturday,TRUE,Back to Campus
+20230730,30-Jul-23,2023,7,Jul,Q3,Sunday,Y,NULL
+20230731,2023/07/31 00:00:00,2023,7,July,Q3,Monday,N,Back to Campus
+20230801,07/31/2024,2023,8,AUGUST,Q3,Tue,N,Back to Campus
+20230802,2023/08/02 00:00:00,2023,8,August ,Q3,Wednesday,N,Back to Campus
+20230803,2023-08-03,2023,8,August,Q3,Thursday,N,Back to Campus
+20230804,04/08/2023,2023,08,August,3,Friday,N,Back to Campus
+20230805,05/08/2023,2023,8,Aug,3,Saturday ,TRUE,Back to Campus
+20230806,06/08/2023,2023,08,August,Q3,Sunday,Y,back to campus
+20230807,2023-08-07,2023,08,August,Q3,monday,N,Back to Campus
+20230808,2023-08-08,2023,08,August,Q3,Tuesday,N,Back to Campus
+20230809,2023-08-09,2023,8,August,Q3,Wednesday ,N,Back to Campus
+20230810,10/08/2023,2023,08,August ,Q3,Thursday,N,Back to Campus
+20230811,12-Jul-23,2023,8,August,Q3,Friday,FALSE,Back to Campus
+20230812,12 August 2023,2023,08,august,Q3,Saturday,TRUE,Back to Campus
+20230813,2023-08-13,2023,8,August,Q3,Sunday,Y,Back to Campus
+20230814,08/21/2023,2023,8,August,Q3,Mon,N,Back to Campus
+20230815,15/08/2023,2023,8,August,Q3,tuesday,N,Back to Campus
+20230816,2023.08.16,2023,8,August,Q3,Wednesday ,N,Back to Campus
+20230817,08/17/2023,2023,08,August,Q3,Thursday,N,Back to Campus
+20230818,2023/08/25 00:00:00,2023,8,August,Q3,Friday,N,Back to Campus
+20230819,19 August 2023,2023,8,Aug,Q3,Saturday,Y,Back to Campus
+20230820,20-Aug-23,2023,8,august,Q3,Sunday,Y,Back to Campus
+20230821,21 August 2023,2023,8,August,Q3,Monday,N,Back to Campus
+20230822,2023/08/22 00:00:00,2023,8,August,Q3,Tuesday,N,Back to Campus
+20230823,08/23/2023,2023,8,August,Q3,Wednesday,N,Back to Campus
+20230824,24 August 2023,2023,8,Aug,3,Thursday,N,Back to Campus
+20230825,2023/08/25 00:00:00,2023,8,August,3,Friday,N,Back to Campus
+20230826,2023.08.26,2023,8,August,Quarter 3,Saturday,Y,Back to Campus
+20230827,27 August 2023,2023,8,August,Q3,Sunday,Y,Back to Campus
+20230828, 08/28/2023 ,2023,8,August,Q3,Monday,N,Back to Campus
+20230829,08/29/2023,2023,08,August,Q3,Tuesday,N,Back to Campus
+20230830,2023-08-30,2023,8,August,Q3,Wednesday,N,Back to Campus
+20230831,2023.08.31,2023,8,August,Quarter 3,Thursday,N,Back to Campus
+20230901,2023-09-01,2023,9,September,3,Friday,N,Upgrade Days
+20230902,02/09/2023,2023,09,September,Q3,Saturday,Y,Upgrade Days
+20230903,03 September 2023,2023,9,September,Q3,Sunday,1,Upgrade Days
+20230904,2023.09.04,2023,9,SEPTEMBER,Q3,Monday,N,Upgrade Days
+20230905,2023/09/05 00:00:00,2023,9,September,Q3,TUESDAY,N,Upgrade Days
+20230906,09/13/2023,2023,09,September,3,Wednesday,N,Upgrade Days
+20230907,09/07/2023,2023,09,September,Q3,Thursday,N,Upgrade Days
+20230908,08-Sep-23,2023/,09,Sep,Q3,Friday,N,Upgrade Days
+20230909,2023.09.09,2023,09,september,Q3,Saturday,Y,Upgrade Days
+20230910,10/09/2023,2023,9,September,q3,Sunday,1,Upgrade Days
+20230911,09/11/2023,2023,9,September,Q3,Monday,N,Upgrade Days
+20230912,2023/09/12 00:00:00,2023,09,September,Q3,Tuesday,N,Upgrade Days
+20230913,13/09/2023,2023/,9,September,Q3,Wednesday,N,Upgrade Days
+20230914,14-Sep-23,2023,9,September,Q3,Thursday,N,Upgrade Days
+20230915,15 September 2023,2023,9,September,Q3,Friday,N,Upgrade Days
+20230916, 2023-09-16 ,2023,09,September,Q3,SATURDAY,Y,Upgrade Days
+20230917,17-Sep-23,2023,9,September,Q3,Sunday,Y,Upgrade Days
+20230918,18 September 2023,FY2023,9,September,Q3,Monday,N,Upgrade Days
+20230919,2023/09/19 00:00:00,2023,9,September,Q3,Tuesday,N,Upgrade Days
+20230920,09/20/2023,2023,9,September,Q3,Wednesday,Weekday,Upgrade Days
+20230921,2023-09-21,2023,9,September,Q3,thursday,N,Upgrade Days
+20230922,2023/09/22 00:00:00,2023,9,Sep,Q3,Friday,N,Upgrade Days
+20230923,23/09/2023,2023,09,September,Q3,Saturday,Y,Upgrade Days
+20230924,2023-09-24,2023,9,September,Q3,Sunday,Y,Upgrade Days
+20230925,2023-09-25,2023,9,September,Q3,Monday,N,UPGRADE DAYS
+20230926,2023.09.26,2023,9,September,Q3,Tuesday,0,Upgrade Days
+20230927,2023/09/27 00:00:00,2023,9,September,Q3,WEDNESDAY,N,UPGRADE DAYS
+20230928,2023/09/28 00:00:00,2023,9,September,Q3,Thu,N,Upgrade Days
+20230929,29 September 2023,2023,09,Sep,3,Friday,N,Upgrade Days
+20230930,2023-09-30,2023,9,Sep,Q3,Saturday,Y,Upgrade Days
+20231001,2023/10/01 00:00:00,2023,10,October,Q4,Sunday,Y,Festive Sale
+20231002,02/10/2023,2023,10,October,Q4,Monday,N,Festive Sale
+20231003,2023-10-03,2023,10,Oct,Q4,Tuesday,N,Festive Sale
+20231004,2023.10.04,2023,10,OCTOBER,Q4,Wednesday,N,Festive Sale
+20231005,2023/10/05 00:00:00,2023,10,october,Quarter 4,Thursday,N,Festive Sale
+20231006,10/06/2023,2023,10,October,Q4,Fri,N,Festive Sale
+20231007,07/10/2023,2023,10,October,Q4,Saturday,Y,Festive Sale
+20231008,2023-10-01,2023,10,OCTOBER,Q4,Sunday,Y,Festive Sale
+20231009,2023.10.09,2023,10,October,Q4,Monday ,N,Festive Sale
+20231010,2023.10.10,2023,10,October,Q4,Tuesday,N,Festive Sale
+20231011,2023.10.11,2023,Oct,October,Q4,Wednesday,N,Festive Sale
+20231012, 12/10/2023 ,2023,10,October,Q4,Thursday,N,Festive Sale
+20231013,2023-10-13,2023,11,October,Q4,friday,N,Festive Sale
+20231014,14-Oct-23,2023,10,October,Q4,saturday,Y,Festive Sale
+20231015,2023.10.15,2023,10,October,Q4,Sun,Y,Festive Sale
+20231016,16 October 2023,2023,10,October,Quarter 4,Monday,N,Festive Sale
+20231017,10/17/2023,2023,10,October,Q4,Tuesday,N,Festive Sale
+20231018,2023-10-18,2023,10,October,Q4,Wednesday,N,Festive Sale
+20231019,2023-10-19,2023,10,October,Q4,thursday,N,Festive Sale
+20231020,20-Oct-23,2023,10,October,Q4,Friday,N,Festive Sale
+20231021, 2023/10/21 00:00:00 ,2023,10,October,Q4,Sat,Y,Festive Sale
+20231022,2023/10/22 00:00:00,2023,10,October,Q4,Sunday,Y,Festive Sale
+20231023,2023.10.23,2023,10,Oct,Q4,Mon,N,Festive Sale
+20231024,10/24/2023,2023,10,October,4,Tuesday,N,Festive Sale
+20231025,25/10/2023,2023,10,October,Q4,Wednesday,N,Festive Sale
+20231026,2023-10-26,2023,10,October,Q4,THURSDAY,N,Festive Sale
+20231027,27/10/2023,2023,10,October,Quarter 4,Friday,N,festive sale
+20231028,2023/10/28 00:00:00,2023,10,October,Q4,Saturday,Y,Festive Sale
+20231029,2023/10/29 00:00:00,2023,10,October,Q4,sunday,Y,Festive Sale
+20231030,2023.10.30,2023,10,October,Q4,Monday,N,Festive Sale
+20231031,31 October 2023,2023,10,OCTOBER,Q4,Tuesday,N,Festive Sale
+20231101,2023/11/01 00:00:00,2023,11,November,Q4,Wednesday,N,Diwali / Black Friday
+20231102,02-Nov-23,2023,11,November,Quarter 4,Thursday,N,Diwali / Black Friday
+20231103,11/03/2023,2023,11,November,Quarter 4,Friday,N,Diwali / Black Friday
+20231104,2023-11-04,2023,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20231105, 2023.11.05 ,2023,11,November,Q4,SUNDAY,Y,Diwali / Black Friday
+20231106,06 November 2023,2023,11,November,Q4,Monday,N,Diwali / Black Friday
+20231107,07-Nov-23,2023,11,NOVEMBER,Q4,tuesday,N,Diwali / Black Friday
+20231108,11/08/2023,2023,11,Nov,Q4,Wednesday,N,Diwali / Black Friday
+20231109,11/09/2023,2023,11,November,4,Thursday,N,Diwali / Black Friday
+20231110,2023-11-10,2023,11,November,Q4,Friday,N,Diwali / Black Friday
+20231111,2023.11.11,2023,11,November,Q4,Saturday,Y,DIWALI / BLACK FRIDAY
+20231112,2023/11/12 00:00:00,2023,11,November,Q4,Sunday,1,Diwali / Black Friday
+20231113,13 November 2023,2023,11,November,Q4,Monday,N,Diwali / Black Friday
+20231114,2023/11/14 00:00:00,2023,11,November ,Q4,Tuesday,N,Diwali / Black Friday
+20231115,2023.11.15,2023,11,November,Q4,wednesday,N,Diwali / Black Friday
+20231116,16-Nov-23,2023,11,November,Q4,Thursday,N,Diwali / Black Friday
+20231117,11/17/2023,2023,11,Nov,Q4,Friday,N,diwali / black friday
+20231118,2023/11/17 00:00:00,2023,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20231119,19/11/2023,2023,11,November,Q4,Sunday,Y,Diwali / Black Friday
+20231120,11/20/2023,2023,11,November ,Q4,Monday,N,Diwali / Black Friday
+20231121,21 November 2023,2023,11,November,Q4,Tuesday,N,Diwali / Black Friday
+20231122,2023/11/22 00:00:00,2023,11,Nov,Q4,Wednesday,N,Diwali / Black Friday
+20231123,23/11/2023,2023,11,Nov,Q4,Thu,N,Diwali / Black Friday
+20231124,2023.11.24,2023,11,November,Q4,Friday,N,Diwali / Black Friday
+20231125,2023.11.25,2023,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20231126,26/11/2023,2023,11,November,Q4,Sunday,Y,Diwali / Black Friday
+20231127,2023/11/27 00:00:00,2023,11,November,4,Monday,N,Diwali / Black Friday
+20231128,2023/11/28 00:00:00,2023,11,Nov,Quarter 4,Tuesday,N,Diwali / Black Friday
+20231129,29/11/2023,2023,11,November,4,Wednesday,N,Diwali / Black Friday
+20231130,30-Nov-23,2023,11,November,Q4,Thursday,N,Diwali / Black Friday
+20231201, 01 December 2023 ,23,12,December,Q4,friday,N,Year End Sale
+20231202,12/02/2023,2023,12,December,Q4,Saturday,Y,YEAR END SALE
+20231203,03/12/2023,2023,12,December,Q4,Sunday,Weekend,Year End Sale
+20231204,2023/12/04 00:00:00,FY2023,12,December,Q4,Monday,N,Year End Sale
+20231205,2023/12/05 00:00:00,2023,12,December,Quarter 4,Tuesday,N,Year End Sale
+20231206,2023/12/06 00:00:00,2023,12,December ,Q4,Wednesday,Weekday,Year End Sale
+20231207,07/12/2023,2023,12,December ,Q4,Thursday,N,Year End Sale
+20231208,2023.12.08,2023,1,December,Q4,Friday,N,Year End Sale
+20231209,2023/12/09 00:00:00,2023,12,December,Quarter 4,Saturday,Y,Year End Sale
+20231210,2023/12/10 00:00:00,2023,12,December ,Q4,Sunday,Y,Year End Sale
+20231211,2023.12.11,2023,12,Dec,Q4,Monday,N,Year End Sale
+20231212,2023.12.12,2023,12,Dec,Quarter 4,Tuesday,N,Year End Sale
+20231213,13-Dec-23,2023,12,December,Q4,Wednesday,N,Year End Sale
+20231214,2023-12-14,2023,12,December,Q4,THURSDAY,N,Year End Sale
+20231215,15 December 2023,2023,12,December,4,Friday,N,Year End Sale
+20231216,2023.12.16,2023,12,Dec,Q4,Saturday,Y,year end sale
+20231217,17 December 2023,2023,12,December,Q4,Sunday,Y,Year End Sale
+20231218,18 December 2023,2023,12,December,Q4,Monday,N,year end sale
+20231219,19-Dec-23,2023,12,December,Q4,Tuesday,N,Year End Sale
+20231220,12/20/2023,2023,12,december,Q4,Wednesday,N,Year End Sale
+20231221,2023-12-21,2023,12,December,Q4,Thursday,N,Year End Sale
+20231222,22/12/2023,2023,12,December,Q4,Friday,0,Year End Sale
+20231223,23-Dec-23,2023,1,December,Q4,Saturday,Y,Year End Sale
+20231224,24/12/2023,2023,12,December,4,Sunday,Y,Year End Sale
+20231225,2023/12/25 00:00:00,2023,12,December,q4,Monday,N,Year End Sale
+20231226,26 December 2023,2023,12,December,Q4,Tuesday,N,Year End Sale
+20231227,12/27/2023,2023,12,December,Q4,WEDNESDAY,N,Year End Sale
+20231228,28-Dec-23,2023,12,December,Q4,Thursday,N,Year End Sale
+20231229,2023.12.29,2023,12,December,Q4,Friday,N,Year End Sale
+20231230,30 December 2023,2023,12,december,Q4,Saturday,Y,Year End Sale
+20231231,31/12/2023,2023,12,DECEMBER,Q4,sunday,Y,Year End Sale
+20240101,2024/01/01 00:00:00,2024,01,January,Q1,Monday,N,New Year / Republic Day
+20240102,02 January 2024,2024,1,January,Q1,tuesday,FALSE,New Year / Republic Day
+20240103,03 January 2024,2024,1,January,Q1,Wednesday,N,NEW YEAR / REPUBLIC DAY
+20240104,04 January 2024,2024,1,January,Q1,Thu,N,New Year / Republic Day
+20240105, 05 January 2024 ,2024,1,January,Quarter 1,Friday,N,New Year / Republic Day
+20240106,06-Jan-24,2024,1,January,Q1,Saturday,Y,New Year / Republic Day
+20240107,2024-01-07,2024,1,January,Q1,Sunday,Y,New Year / Republic Day
+20240108,2024.01.08,2024,1,January,Q1,Monday,N,New Year / Republic Day
+20240109,01/09/2024,2024,01,January,Q1,Tuesday,N,New Year / Republic Day
+20240110,10 January 2024,2024,1,January,Q1,Wednesday,N,New Year / Republic Day
+20240111,11 January 2024,2024,1,January,Q1,Thursday,N,New Year / Republic Day
+20240112,12-Jan-24,2024/,1,January,q1,Fri,N,New Year / Republic Day
+20240113,13 January 2024,2024,1,January ,Q1,Saturday ,Y,NEW YEAR / REPUBLIC DAY
+20240114,2024.01.14,2024,01,January,Q1,Sunday,Y,New Year / Republic Day
+20240115,2024.01.15,2024,1,January,Q1,Mon,N,New Year / Republic Day
+20240116,2024/01/16 00:00:00,2024,1,January,Q1,Tuesday ,N,New Year / Republic Day
+20240117,2024/01/17 00:00:00,2024,01,January,Q1,Wednesday,N,New Year / Republic Day
+20240118,18 January 2024,2024,1,January,Q1,Thu,N,New Year / Republic Day
+20240119,19-Jan-24,2024,1,January,Q1,Friday,N,new year / republic day
+20240120,20-Jan-24,2024,1,January,Q1,Saturday,TRUE,New Year / Republic Day
+20240121,21 January 2024,2024,1,January,Q1,Sunday,1,New Year / Republic Day
+20240122,2024.01.22,2024,01,January,Q1,Monday ,N,New Year / Republic Day
+20240123, 23 January 2024 ,2024,1,January,Q1,Tuesday,N,New Year / Republic Day
+20240124,2024-01-24,2024,01,January,Q1,Wednesday,N,New Year / Republic Day
+20240125,01/25/2024,2024,1,January,Q1,Thursday,N,New Year / Republic Day
+20240126,2024.01.26,2024,1,January,Q1,Friday,N,New Year / Republic Day
+20240127,27/01/2024,2024,1,January,Q1,Sat,Y,New Year / Republic Day
+20240128,28 January 2024,2024,1,January ,Q1,Sunday,Y,New Year / Republic Day
+20240129,01/29/2024,2024,1,January,Q1,Monday,N,New Year / Republic Day
+20240130,2024.01.30,2024,1,January,Q1,Tuesday,N,New Year / Republic Day
+20240131,2024.01.31,2024,01,January,Q1,wednesday,N,Regular Trading
+20240201,01-Feb-24,2024,02,February,Q1,Thursday,N,Regular Trading
+20240202,02 February 2024,2024,02,February,q1,FRIDAY,N,Regular Trading
+20240203,2024.02.03,2024,2,February,q1,Saturday,Y,Regular Trading
+20240204,2024/02/04 00:00:00,2024,2,February,Q1,Sunday,Y,Regular Trading
+20240205,2024/02/05 00:00:00,2024,3,Feb,Q1,Monday,N,Regular Trading
+20240206,06-Feb-24,2024,2,February,Q1,TUESDAY,N,Regular Trading
+20240207,02/07/2024,2024,2,february,Q1,Wednesday,0,Regular Trading
+20240208,2024.02.08,2024,2,FEBRUARY,Q1,Thursday,N,Regular Trading
+20240209,02/09/2024,2024,2,February,Q1,Friday,N,Regular Trading
+20240210,10/02/2024,2024,02,February,Q1,Saturday,Y,Regular Trading
+20240211,11 February 2024,2024,2,February,Q1,Sunday,Y,Regular Trading
+20240212,2024-02-12,2024,2,February,q1,MONDAY,N,Regular Trading
+20240213,13-Feb-24,2024,02,February,Q1,Tuesday,N,Regular Trading
+20240214,2024-02-14,2024,2,FEBRUARY,Q1,Wednesday,N,Regular Trading
+20240215,15-Feb-24,2024,2,february,Q1,Thursday,FALSE,Regular Trading
+20240216,16/02/2024,2024,2,February,Q1,friday,N,Regular Trading
+20240217,17 February 2024,2024,2,February,Q1,Saturday,Y,Regular Trading
+20240218,2024-02-18,2024,2,Feb,1,Sunday,Y,Regular Trading
+20240219,2024-02-19,2024,2,February,Q1,Monday,N,Regular Trading
+20240220,20-Feb-24,2024,2,February,Q1,Tuesday,N,Regular Trading
+20240221,2024/02/21 00:00:00,2024,2,February ,Q1,Wednesday,N,Regular Trading
+20240222,22 February 2024,2024,2,February,q1,Thursday,N,Regular Trading
+20240223,2024/02/23 00:00:00,2024,2,February,Q1,Friday,N,Regular Trading
+20240224,2024.02.24,2024,2,February,Q1,Saturday,Y,Regular Trading
+20240225,25/02/2024,2024,02,February,Q1,sunday,Y,Regular Trading
+20240226,02/26/2024,2024,02,Feb,Q1,Monday,N,Regular Trading
+20240227,2024-02-27,2024,02,February,Q1,Tuesday,N,Regular Trading
+20240228,28 February 2024,2024,02,February,Q1,Wednesday,N,Regular Trading
+20240229,29-Feb-24,2024,2,February,Q1,Thursday,N,Regular Trading
+20240301,2024/03/01 00:00:00,2024,3,March,1,Friday,N,Spring Upgrade
+20240302,02/03/2024,2024,3,March,Q1,Saturday,Y,Spring Upgrade
+20240303,2024/03/03 00:00:00,2024,3,March,Q1,Sunday,Y,Spring Upgrade
+20240304,04/03/2024,2024,3,March,Q1,Monday,N,Spring Upgrade
+20240305,05-Mar-24,2024,3,March,Q1,Tuesday,N,Spring Upgrade
+20240306,03/06/2024,2024,03,March,Q1,Wednesday,N,Spring Upgrade
+20240307,07-Mar-24,2024,3,March,Q1,Thursday,N,Spring Upgrade
+20240308,2024.03.08,2024,3,March,q1,Friday,N,Spring Upgrade
+20240309,09/03/2024,2024,03,March,Q1,Saturday,Y,Spring Upgrade
+20240310,2024-03-10,2024,3,March,Q1,Sunday,Y,Spring Upgrade
+20240311,2024/03/11 00:00:00,2024,03,March,Q1,Monday,FALSE,Spring Upgrade
+20240312,03/12/2024,2024,3,March,Q1,Tuesday,Weekday,Spring Upgrade
+20240313,03/13/2024,2024,3,March,Q1,wednesday,0,Spring Upgrade
+20240314,03/14/2024,2024,3,March,Q1,Thursday,N,Spring Upgrade
+20240315,15/03/2024,2024,03,March,Q1,Friday,N,Spring Upgrade
+20240316,2024-03-16,2024,3,March,Q1,Saturday,Y,Spring Upgrade
+20240317,2024-03-17,2024,03,March ,Q1,Sunday,Y,Spring Upgrade
+20240318,2024.03.18,2024,03,March,Q1,Monday,N,Spring Upgrade
+20240319,19 March 2024,2024,03,March,q1,Tuesday,N,Spring Upgrade
+20240320,20-Mar-24,2024,3,March,Q1,Wednesday,N,Spring Upgrade
+20240321,21 March 2024,2024,3,March,Q1,Thursday,N,Spring Upgrade
+20240322,2024.03.22,2024,3,March,Q1,Friday,N,Spring Upgrade
+20240323,2024-03-23,2024,3,March,Q1,Saturday,Y,Spring Upgrade
+20240324, 2024/03/24 00:00:00 ,2024,3,March ,Q1,Sunday,Y,Spring Upgrade
+20240325,25/03/2024,2024,3,March,Q1,Monday,N,Spring Upgrade
+20240326,2024/03/26 00:00:00,2024,3,March,Q1,tuesday,FALSE,Spring Upgrade
+20240327,27 March 2024,FY2024,3,March,Q1,Wednesday,N,Spring Upgrade
+20240328,2024/03/28 00:00:00,2024,03,march,Quarter 1,Thursday,N,Spring Upgrade
+20240329,2024/03/29 00:00:00,2024,03,March,Q1,Friday ,N,Spring Upgrade
+20240330,2024/03/30 00:00:00,2024,3,March,Q1,Saturday,TRUE,Spring Upgrade
+20240331,31-Mar-24,2024,03,March,Q1,Sunday,Y,Spring Upgrade
+20240401,01/04/2024,2024,4,April,Q2,Monday,N,Regular Trading
+20240402,02/04/2024,2024,4,April,Q2,Tuesday,N,Regular Trading
+20240403,03/04/2024,2024,Apr,April,Q2,Wednesday,N,regular trading
+20240404,04/04/2024,2024,4,April,Quarter 2,THURSDAY,N,Regular Trading
+20240405,2024-04-05,2024,4,Apr,Q2,Friday,N,Regular Trading
+20240406,2024.04.06,2024,04,April,Q2,Saturday,TRUE,Regular Trading
+20240407,07-Apr-24,2024,4,April,Quarter 2,Sunday,Y,Regular Trading
+20240408,08-Apr-24,2024,4,April,Q2,Monday,N,Regular Trading
+20240409,09/04/2024,2024,4,April,Q2,Tuesday,N,Regular Trading
+20240410,2024/04/10 00:00:00,2024,04,April,Q2,Wednesday,N,Regular Trading
+20240411,2024-04-11,2024,4,April,Q2,Thursday,N,Regular Trading
+20240412,12/04/2024,2024,4,April,Q2,Friday,N,Regular Trading
+20240413,13 April 2024,2024,04,April,Q2,Saturday,Y,Regular Trading
+20240414,04/14/2024,2024,04,Apr,Q2,Sun,Y,Regular Trading
+20240415,15/04/2024,2024,Apr,April,2,Monday,N,Regular Trading
+20240416,16 April 2024,2024,4,April,Q2,Tuesday,N,Regular Trading
+20240417,17 April 2024,2024,4,April,Q2,Wednesday,N,Regular Trading
+20240418,2024-04-18,2024,04,April,Quarter 2,Thursday,N,Regular Trading
+20240419,2024.04.19,FY2024,04,April,Q2,Friday,N,Regular Trading
+20240420,20/04/2024,2024,04,April,Q2,saturday,Y,Regular Trading
+20240421, 21/04/2024 ,2024,04,April,Q2,Sunday,1,Regular Trading
+20240422,2024.04.22,2024,4,April,Q2,Monday,N,Regular Trading
+20240423,2024/04/23 00:00:00,2024,04,April,Q2,Tuesday,N,Regular Trading
+20240424,2024-04-24,2024,4,April,Q2,Wednesday,N,Regular Trading
+20240425,25/04/2024,24,4,April,q2,Thu,0,Regular Trading
+20240426,26/04/2024,2024,4,April,Q2,Friday,N,Regular Trading
+20240427,27-Apr-24,2024,4,April,Q2,Saturday,Y,Regular Trading
+20240428,28/04/2024,2024,4,April,Q2,Sunday,Y,Regular Trading
+20240429,29-Apr-24,2024,4,April,Q2,Monday,N,Regular Trading
+20240430,30 April 2024,2024,4,April,Q2,Tuesday,N,Regular Trading
+20240501,01 May 2024,2024,05,May,Q2,Wednesday,N,Summer Tech Fest
+20240502,2024-05-02,2024,5,May,Q2,Thursday,N,Summer Tech Fest
+20240503,03 May 2024,2024,5,May,Q2,Friday ,N,Summer Tech Fest
+20240504,2024.05.04,2024,5,May,Q2,Saturday,Y,Summer Tech Fest
+20240505,2024-05-05,2024,5,May ,Q2,Sunday,Y,Summer Tech Fest
+20240506,06-May-24,2024,5,May,Q2,Monday,N,Summer Tech Fest
+20240507,2024.05.07,2024,5,May,Q2,Tuesday,N,Summer Tech Fest
+20240508, 2024/05/08 00:00:00 ,2024,05,May,Q2,Wednesday,N,Summer Tech Fest
+20240509,05/09/2024,2024,5,May,q2,Thursday,N,Summer Tech Fest
+20240510,2024-05-10,2024,05,May,Q2,Friday,N,summer tech fest
+20240511,11 May 2024,2024,5,May,Q2,Saturday,Y,Summer Tech Fest
+20240512,2024-05-12,2024,5,May,Q2,Sunday,Y,Summer Tech Fest
+20240513,13/05/2024,2024,5,May,Q2,Monday,N,Summer Tech Fest
+20240514,14-May-24,2024,5,May,Q2,Tuesday,N,Summer Tech Fest
+20240515,2024-05-15,2024,5,May,Q2,Wednesday,N,Summer Tech Fest
+20240516,16/05/2024,2024,5,MAY,Q2,Thursday,N,Summer Tech Fest
+20240517,17/05/2024,2024,5,May,Q2,Friday,N,summer tech fest
+20240518,2024/05/18 00:00:00,2024,5,May,Q2,Saturday,Y,Summer Tech Fest
+20240519, 2024.05.19 ,2024,05,May,Q2,Sunday,Y,Summer Tech Fest
+20240520,20 May 2024,2024,5,May ,Q2,Monday,N,Summer Tech Fest
+20240521,21 May 2024,2024,5,May,Q2,Tuesday,N,Summer Tech Fest
+20240522,22-May-24,2024,5,May,Q2,Wednesday,N,Summer Tech Fest
+20240523,23-May-24,2024,5,May ,Q2,Thursday,N,Summer Tech Fest
+20240524,2024/05/24 00:00:00,2024,05,May,Q2,Friday,N,Summer Tech Fest
+20240525,2024/05/25 00:00:00,2024,May,May,Q2,Saturday,Y,Summer Tech Fest
+20240526,26 May 2024,2024,05,May,Q2,Sunday,Y,Summer Tech Fest
+20240527,2024.05.27,2024,5,May,Q2,Monday,N,Summer Tech Fest
+20240528,2024-05-28,2024,05,May,Q2,Tuesday,N,Summer Tech Fest
+20240529,29-May-24,2024,5,may,Q2,Wednesday,N,Summer Tech Fest
+20240530,2024.05.30,2024,5,May,Q2,Thursday,N,Summer Tech Fest
+20240531,2024/05/31 00:00:00,2024,05,May,Q2,Friday,N,Summer Tech Fest
+20240601,01 June 2024,2024,6,June,Q2,Saturday,Weekend,Summer Tech Fest
+20240602,02/06/2024,2024,6,June,q2,Sunday,Y,Summer Tech Fest
+20240603,2024-06-03,2024,6,June,q2,Monday,N,Summer Tech Fest
+20240604,2024/06/04 00:00:00,2024,06,Jun,Q2,Tuesday ,N,Summer Tech Fest
+20240605,06/05/2024,2024,6,June,Q2,Wednesday,N,summer tech fest
+20240606,2024/06/06 00:00:00,2024,6,June,Q2,Thursday,N,Summer Tech Fest
+20240607,2024/06/07 00:00:00,2024,6,June,Q2,Friday,N,Summer Tech Fest
+20240608,08-Jun-24,2024,06,June,Q2,Saturday,Y,Summer Tech Fest
+20240609,09 June 2024,2024,6,June,Quarter 2,Sunday,Y,Summer Tech Fest
+20240610, 2024/06/10 00:00:00 ,2024,6,June,Q2,Monday,N,Summer Tech Fest
+20240611,06/11/2024,2024,6,June,Quarter 2,Tuesday,N,Summer Tech Fest
+20240612,2024-06-12,2024,6,June,Q2,Wednesday,N,summer tech fest
+20240613,13 June 2024,2024,6,june,Q2,Thursday,N,Summer Tech Fest
+20240614,14 June 2024,2024,6,June,Q2,Friday ,N,Summer Tech Fest
+20240615,15 June 2024,2024,6,June,Quarter 2,Saturday,Y,Summer Tech Fest
+20240616,06/16/2024,2024,6,June,Q2,Sunday ,Y,SUMMER TECH FEST
+20240617,17/06/2024,2024,06,June,Q2,Monday,N,Summer Tech Fest
+20240618,18-Jun-24,2024,06,June,2,Tuesday,N,Summer Tech Fest
+20240619,19-Jun-24,2024,6,June,Q2,Wednesday,N,Summer Tech Fest
+20240620,20/06/2024,2024,6,Jun,Q2,Thursday,N,Summer Tech Fest
+20240621,2024.06.21,2024,6,June,Q2,Fri,N,Summer Tech Fest
+20240622,2024/06/22 00:00:00,2024,6,June,Q2,Saturday,1,Summer Tech Fest
+20240623,23-Jun-24,2024,6,June ,Q2,Sunday,Y,Summer Tech Fest
+20240624,2024/06/24 00:00:00,2024,6,June,Q2,Monday,N,Summer Tech Fest
+20240625,2024/06/25 00:00:00,2024,06,Jun,q2,Tuesday,N,Summer Tech Fest
+20240626,26 June 2024,2024,6,June,2,Wednesday,N,Summer Tech Fest
+20240627,2024.06.27,2024,6,June,Q2,Thursday,N,Summer Tech Fest
+20240628,28 June 2024,2024,06,June,Q2,Friday,N,Summer Tech Fest
+20240629,29-Jun-24,2024,6,June ,Q2,Saturday,Y,Summer Tech Fest
+20240630,2024-06-30,2024,6,June,Q2,Sunday,Y,Summer Tech Fest
+20240701,07/01/2024,2024,7,july,Q3,Mon,N,Back to Campus
+20240702,02/07/2024,2024,7,july,Q3,tuesday,N,Back to Campus
+20240703,03 July 2024,2024,7,July,Q3,Wednesday,N,Back to Campus
+20240704,2024.07.04,2024,7,July,Q3,Thursday,N,Back to Campus
+20240705, 07/05/2024 ,2024,7,July,Q3,Friday,N,back to campus
+20240706,2024.07.06,2024,7,July,Q3,Saturday,Y,Back to Campus
+20240707,07-Jul-24,2024,7,July,Q3,Sunday,Y,Back to Campus
+20240708,08-Jul-24,2024,7,JULY,3,Monday,N,Back to Campus
+20240709,2024/07/09 00:00:00,2024,7,July ,Q3,Tuesday,N,Back to Campus
+20240710,2024.07.10,2024,07,JULY,Q3,Wednesday ,N,Back to Campus
+20240711,11/07/2024,2024,7,July,Q3,Thursday,N,Back to Campus
+20240712,07/12/2024,2024,7,July,Q3,Friday,N,Back to Campus
+20240713,07/13/2024,24,7,July,Q3,Saturday,Y,Back to Campus
+20240714,2024-07-14,2024,7,July,Q3,Sunday,Y,Back to Campus
+20240715,2024-07-15,2024,7,July,Q3,Monday,N,Back to Campus
+20240716,16/07/2024,2024,7,july,Q3,Tuesday,N,Back to Campus
+20240717,07/17/2024,2024,7,July,Q3,Wednesday,N,Back to Campus
+20240718,2024.07.18,2024,7,July,Q3,Thursday,N,Back to Campus
+20240719,07/19/2024,2024,7,July,Q3,Friday,N,Back to Campus
+20240720,20/07/2024,2024,7,July,q3,Saturday,Y,Back to Campus
+20240721,2024-07-21,2024,7,July,Q3,Sunday,Y,Back to Campus
+20240722,2024-07-22,2024,7,July ,Q3,Monday,N,Back to Campus
+20240723,2024-07-23,2024,7,july,3,tuesday,N,Back to Campus
+20240724,07/24/2024,2024,07,July,Q3,Wednesday,N,Back to Campus
+20240725,2024.07.25,2024,7,July ,Q3,Thursday,N,Back to Campus
+20240726,07/26/2024,2024,7,July,Q3,Friday,N,Back to Campus
+20240727,27 July 2024,2024,7,Jul,Q3,Saturday,Y,Back to Campus
+20240728,2024-07-28,2024,7,July,Q3,Sunday,Y,Back to Campus
+20240729,07/30/2023,2024,7,July,Q3,Monday,N,Back to Campus
+20240730,30-Jul-24,2024,7,July,Q3,Tuesday,N,Back to Campus
+20240731,31-Jul-24,2024,7,JULY,Q3,Wednesday,N,Back to Campus
+20240801,2024.08.01,2024,8,August,Q3,Thursday,N,Back to Campus
+20240802,02/08/2024,2024,8,August,Q3,Friday,N,back to campus
+20240803,04/08/2024,2024,8,Aug,Q3,Saturday,Y,Back to Campus
+20240804,08/04/2024,2024,8,Aug,Q3,Sunday,Y,Back to Campus
+20240805,08/05/2024,2024,8,August,q3,Monday,N,Back to Campus
+20240806,06/08/2024,2024,08,August,Q3,Tue,N,Back to Campus
+20240807,2024.08.07,2024,8,Aug,Q3,Wednesday,N,Back to Campus
+20240808,08-Aug-24,2024,8,August,Q3,Thursday,N,Back to Campus
+20240809,09-Aug-24,2024,8,August ,q3,Friday,N,Back to Campus
+20240810,10/08/2024,2024,08,August,Q3,Saturday,Y,Back to Campus
+20240811,11 August 2024,2024,8,August,3,Sunday,Y,Back to Campus
+20240812,12 August 2024,2024,8,august,Q3,Monday,N,Back to Campus
+20240813,13-Aug-24,2024,8,August,Q3,TUESDAY,N,Back to Campus
+20240814,14/08/2024,2024,8,Aug,Q3,Wednesday,0,Back to Campus
+20240815,15-Aug-24,2024,8,august,3,Thursday,N,Back to Campus
+20240816,16 August 2024,2024,8,August,Q3,Friday,N,Back to Campus
+20240817,08/17/2024,2024,8,August,Quarter 3,Saturday,Y,Back to Campus
+20240818,2024-08-18,2024,08,August,Q3,Sunday,Y,Back to Campus
+20240819,19 August 2024,2024,08,AUGUST,Q3,Monday,N,Back to Campus
+20240820,08/20/2024,2024,08,August,Quarter 3,Tue,N,BACK TO CAMPUS
+20240821,08/21/2024,2024,8,August,Q3,Wednesday,N,Back to Campus
+20240822,2024.08.22,2024,8,August,Q3,Thursday,N,Back to Campus
+20240823,08/23/2024,2024,8,August,Q3,Friday,N,Back to Campus
+20240824,2024/08/24 00:00:00,2024,08,August,Q3,Saturday,Y,Back to Campus
+20240825,25-Aug-24,2024,8,August,Q3,Sunday,Y,Back to Campus
+20240826,2024.08.26,2024,8,AUGUST,Q3,Monday,N,Back to Campus
+20240827,2024/08/27 00:00:00,2024,08,August,Q3,Tuesday,N,Back to Campus
+20240828,2024-08-28,2024,08,August ,Q3,Wednesday,N,Back to Campus
+20240829,08/29/2024,2024,8,Aug,Q3,Thursday,N,Back to Campus
+20240830,2024-08-30,2024,8,august,Q3,Friday,N,Back to Campus
+20240831,08/31/2024,2024,8,August,Q3,Saturday,Y,Back to Campus
+20240901,09/01/2024,2024,9,Sep,Q3,Sunday,Y,Upgrade Days
+20240902,2024-09-02,2024,9,September,Q3,Monday,N,Upgrade Days
+20240903,2024/09/03 00:00:00,2024,09,September,Q3,Tuesday,N,Upgrade Days
+20240904,09/04/2024,2024,9,September,Q3,Wednesday ,N,Upgrade Days
+20240905,2024/09/05 00:00:00,2024,9,September,Q3,Thursday,N,upgrade days
+20240906,2024-09-06,2024,9,September ,Quarter 3,Friday,N,Upgrade Days
+20240907,2024-09-07,2024,9,September,Q3,Saturday,Y,Upgrade Days
+20240908,08 September 2024,2024,9,September,Q3,Sunday,Y,Upgrade Days
+20240909,2024/09/09 00:00:00,24,9,SEPTEMBER,Quarter 3,Monday,N,Upgrade Days
+20240910,2024/09/10 00:00:00,2024,9,September,Q3,Tuesday,N,Upgrade Days
+20240911,09/11/2024,2024,09,September,Q3,Wednesday,N,UPGRADE DAYS
+20240912,2024.09.12,2024,9,September ,Q3,thursday,FALSE,Upgrade Days
+20240913,13-Sep-24,2024,9,September,Q3,Friday,N,Upgrade Days
+20240914,2024/09/14 00:00:00,2024,09,September,Q3,Saturday,Y,Upgrade Days
+20240915,09/15/2024,2024,9,September,3,Sunday,Y,Upgrade Days
+20240916,16 September 2024,2024,9,September,Q3,Monday,N,Upgrade Days
+20240917,17-Sep-24,2024,09,September,Q3,Tuesday,N,Upgrade Days
+20240918,09/18/2024,2024,09,September,Q3,Wednesday,N,Upgrade Days
+20240919,2024-09-19,2024,09,september,Quarter 3,Thursday,N,Upgrade Days
+20240920,2024.09.20,2024,9,September,Q3,Fri,N,Upgrade Days
+20240921,21 September 2024,2024,09,September,Quarter 3,Saturday,Y,upgrade days
+20240922,09/22/2024,2024,9,september,Q3,Sunday,Y,Upgrade Days
+20240923, 23/09/2024 ,2024,9,September,Q3,Monday,N,Upgrade Days
+20240924,09/24/2024,2024,9,September,Q3,Tuesday,N,UPGRADE DAYS
+20240925,2024-09-25,2024,9,September,q3,Wednesday,N,Upgrade Days
+20240926,26 September 2024,2024/,9,SEPTEMBER,3,Thursday,N,Upgrade Days
+20240927,09/27/2024,2024,9,September,Q3,FRIDAY,N,Upgrade Days
+20240928,2024-09-28,2024,9,September,Q3,Saturday,Y,Upgrade Days
+20240929,29-Sep-24,2024,09,September,Q3,Sunday,Y,Upgrade Days
+20240930,30-Sep-24,2024,9,September,Q3,Monday,N,Upgrade Days
+20241001,10/01/2024,2024,10,October,Q4,Tuesday ,N,Festive Sale
+20241002,10/02/2024,2024,10,October,Q4,Wednesday,N,Festive Sale
+20241003,2024.10.03,2024,10,October,Q4,Thursday,N,Festive Sale
+20241004,2024/10/04 00:00:00,2024,10,October,Q4,Friday,N,Festive Sale
+20241005,05-Oct-24,2024,10,October,Q4,Saturday,Y,Festive Sale
+20241006,2024-10-06,2024,10,october,Q4,Sunday,Y,Festive Sale
+20241007,2024.10.07,2024,10,October,Q4,monday,N,Festive Sale
+20241008,10/08/2024,2024,10,October,Q4,Tuesday ,N,Festive Sale
+20241009,2024.10.09,2024,10,October,Q4,Wednesday,N,Festive Sale
+20241010,2024.10.10,2024,10,October,Q4,Thursday,N,Festive Sale
+20241011,not-a-date,FY2024,10,October,Q4,FRIDAY,N,Festive Sale
+20241012,2024.10.12,2024,10,October,4,Saturday,Y,Festive Sale
+20241013,2024/10/13 00:00:00,2024,10,October,4,Sunday,Y,Festive Sale
+20241014,2024.10.14,2024,10,October,Q4,Monday,N,Festive Sale
+20241015,15/10/2024,2024,10,October,Q4,Tuesday ,N,Festive Sale
+20241016,16-Oct-24,2024,10,October,Q4,Wednesday ,N,Festive Sale
+20241017,2024/10/17 00:00:00,2024,10,October,Q4,Thursday,N,FESTIVE SALE
+20241018,2024.10.18,2024,10,October,Q4,Friday,N,Festive Sale
+20241019,19/10/2024,2024,10,October,Q4,Saturday,Y,Festive Sale
+20241020,20-Oct-24,2024,Oct,October,Quarter 4,Sunday,Y,Festive Sale
+20241021,2024-10-21,2024,10,October,Q4,Monday,FALSE,Festive Sale
+20241022,2024/10/22 00:00:00,2024,11,October,Q4,Tuesday,N,Festive Sale
+20241023,10/23/2024,2024,10,October,Q4,Wednesday,N,Festive Sale
+20241024,2024-10-24,2024,10,Oct,4,Thursday,N,Festive Sale
+20241025,25/10/2024,2024,10,October,Q4,Friday,N,festive sale
+20241026,2024/10/26 00:00:00,2024,10,October,Q4,Saturday,Y,Festive Sale
+20241027,2024-10-27,2024,10,October,Q4,Sunday,Y,Festive Sale
+20241028,28/10/2024,2024,10,October,Q4,Monday,N,Festive Sale
+20241029,29-Oct-24,2024,10,October,Q4,Tuesday,N,Festive Sale
+20241030,2024/10/30 00:00:00,2024,10,October,Q4,wednesday,N,Festive Sale
+20241031,31 October 2024,2024,10,October,Q4,Thursday,N,Festive Sale
+20241101,01/11/2024,2024,11,november,q4,Friday,N,Diwali / Black Friday
+20241102,2024-11-02,2024,11,NOVEMBER,Q4,Saturday,Y,Diwali / Black Friday
+20241103,2024.11.03,2024,11,November,4,Sunday,Y,Diwali / Black Friday
+20241104,2024/11/04 00:00:00,2024,11,November,Q4,MONDAY,N,Diwali / Black Friday
+20241105,05/11/2024,2024,11,November,4,Tuesday,N,Diwali / Black Friday
+20241106, 2024-11-06 ,2024,11,November,Q4,Wednesday,N,DIWALI / BLACK FRIDAY
+20241107,07 November 2024,2024,11,November,Q4,Thursday,N,Diwali / Black Friday
+20241108,08 November 2024,2024,11,November,Q4,Friday,0,Diwali / Black Friday
+20241109,2024.11.09,2024,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20241110,2024.11.10,2024,11,NOVEMBER,Q4,Sunday,Y,Diwali / Black Friday
+20241111,2024-11-11,2024,11,November,Q4,Monday,N,Diwali / Black Friday
+20241112,2024-11-12,2024,11,November,Q4,Tuesday,N,Diwali / Black Friday
+20241113,2024/11/13 00:00:00,2024,11,November,Q4,Wednesday,N,Diwali / Black Friday
+20241114,2024.11.14,2024,11,November,Q4,Thursday,N,Diwali / Black Friday
+20241115,15-Nov-24,2024,11,november,Q4,Friday,N,DIWALI / BLACK FRIDAY
+20241116,2024-11-16,2024,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20241117,17/11/2024,2024,11,NOVEMBER,q4,Sunday,Y,Diwali / Black Friday
+20241118,18/11/2024,2024,11,November,q4,Monday,N,Diwali / Black Friday
+20241119,19-Nov-24,2024,11,Nov,Q4,Tuesday,N,Diwali / Black Friday
+20241120,20 November 2024,2024,11,November,Q4,Wed,N,Diwali / Black Friday
+20241121,2024-11-21,2024,11,November,Q4,THURSDAY,N,Diwali / Black Friday
+20241122,2024-11-22,2024,11,November ,Q4,Friday,N,Diwali / Black Friday
+20241123,11/23/2024,2024,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20241124,2024-11-24,2024,11,November,Q4,Sunday,Y,Diwali / Black Friday
+20241125,25-Nov-24,2024,11,november,Q4,Monday,N,Diwali / Black Friday
+20241126,26 November 2024,2024,11,November ,Q4,Tuesday,N,Diwali / Black Friday
+20241127,27 November 2024,24,11,November,Q4,Wednesday,N,Diwali / Black Friday
+20241128,2024-11-28,2024,11,November,q4,Thursday,FALSE,Diwali / Black Friday
+20241129,2024/11/29 00:00:00,2024,11,Nov,Q4,Friday,N,Diwali / Black Friday
+20241130,2024/11/30 00:00:00,2024,11,November,Q4,SATURDAY,Y,Diwali / Black Friday
+20241201,01-Dec-24,2024,12,December,Q4,Sunday,Y,Year End Sale
+20241202,02-Dec-24,2024,12,December,Q4,Monday,N,Year End Sale
+20241203,03 December 2024,2024,Dec,December,Q4,Tuesday,N,Year End Sale
+20241204,2024/12/04 00:00:00,2024,12,December,4,Wednesday,N,Year End Sale
+20241205,05-Dec-24,2024,12,December,Q4,Thursday,N,Year End Sale
+20241206,06 December 2024,2024/,12,December,4,Friday,N,Year End Sale
+20241207,07 December 2024,2024,12,December,Q4,Saturday,Y,Year End SALE
+20241208,08-Dec-24,2024,12,December ,Q4,SUNDAY,Y,Year End Sale
+20241209,09/12/2024,2024,12,December,Q4,Monday,N,Year End Sale
+20241210,2024-12-10,2024,12,December,Q4,Tuesday,N,Year End Sale
+20241211,2024/12/11 00:00:00,2024,12,December,Q4,Wednesday,N,Year End Sale
+20241212,12/12/2024,2024,12,December,Q4,Thursday,N,Year End Sale
+20241213,2024-12-13,2024,12,December,Q4,Friday,N,Year End Sale
+20241214,2024.12.14,2024,12,December,Q4,Saturday,Y,Year End Sale
+20241215,2024-12-15,2024,12,December,Q4,Sunday,Y,Year End Sale
+20241216,16/12/2024,2024,12,December,Q4,monday,N,Year End Sale
+20241217,2024.12.17,2024,1,Dec,Q4,Tuesday,N,Year End Sale
+20241218,12/18/2024,2024,12,December,Q4,Wednesday,N,Year End Sale
+20241219,2024-12-19,2024,12,December,Q4,Thursday,FALSE,Year End Sale
+20241220,20-Dec-24,2024,12,December,q4,Friday,N,Year End Sale
+20241221,2024-12-21,2024/,12,December,Q4,SATURDAY,Y,Year End Sale
+20241222,22/12/2024,2024,12,december,Q4,sunday,Y,Year End Sale
+20241223,23-Dec-24,2024,12,December,Q4,Monday,N,Year End Sale
+20241224,24/12/2024,2024,12,December,Q4,Tuesday,N,Year End Sale
+20241225,12/25/2024,2024,12,December,Q4,Wednesday,N,Year End Sale
+20241226,12/26/2024,2024,12,December,Q4,Thursday,N,Year End Sale
+20241227,27 December 2024,2024,12,December ,Q4,Friday,N,Year End Sale
+20241228,28/12/2024,2024,12,December,Q4,Saturday,Y,Year End SALE
+20241229,2024/12/29 00:00:00,2024,12,december,Q4,Sunday,Y,Year End Sale
+20241230,12/30/2024,2024,12,Dec,Q4,Monday,N,Year End Sale
+20241231,12/31/2024,2024,12,December,Q4,Tuesday,N,YEAR END SALE
+20250101,01-Jan-25,2025,1,January,Q1,Wednesday,N,New Year / Republic Day
+20250102,02-Jan-25,2025,01,january,Q1,Thursday,N,New Year / Republic Day
+20250103,2025-01-03,2025,01,January,Q1,Friday ,N,New Year / Republic Day
+20250104,04-Jan-25,2025,1,january,Q1,Saturday,Y,New Year / Republic Day
+20250105,2025.01.05,2025,1,January,Q1,Sunday,Y,New Year / Republic Day
+20250106,01/06/2025,2025,1,January,1,monday,FALSE,New Year / Republic Day
+20250107,2025/01/07 00:00:00,2025,1,Jan,Quarter 1,Tuesday,N,New Year / Republic Day
+20250108,01/08/2025,2025,01,January,Q1,Wednesday,N,New Year / Republic Day
+20250109,2025-01-09,2025,1,JANUARY,Q1,Thursday ,N,New Year / Republic Day
+20250110,2025-01-10,2025,01,january,Q1,Friday,N,New Year / Republic Day
+20250111,11-Jan-25,2025,1,January,Q1,Saturday,Weekend,New Year / Republic Day
+20250112,12/01/2025,2025,1,January,Q1,Sunday,Y,New Year / Republic Day
+20250113,13-Jan-25,2025,1,January,Q1,Monday,N,New Year / Republic Day
+20250114,14/01/2025,2025,1,January ,Q1,Tuesday,N,new year / republic day
+20250115,15/01/2025,2025,01,JANUARY,Q1,Wednesday,N,New Year / Republic Day
+20250116,2025.01.16,2025,1,January,Q1,Thursday,N,New Year / Republic Day
+20250117,2025-01-17,2025,1,January,Q1,Friday,N,New Year / Republic Day
+20250118,2025-01-18,2025,01,January,Q1,Saturday,Weekend,new year / republic day
+20250119,19/01/2025,2025,01,January,Q1,Sunday,Y,New Year / Republic Day
+20250120,2025.01.20,2025,1,January,Q1,Monday,N,New Year / Republic Day
+20250121,2025-01-21,2025,1,Jan,Quarter 1,Tuesday,N,New Year / Republic Day
+20250122, 2025.01.22 ,2025,1,January,Q1,Wednesday,N,New Year / Republic Day
+20250123,2025-01-23,2025,01,January,Q1,Thu,N,new year / republic day
+20250124,24 January 2025,2025,1,January,Q1,Friday,N,New Year / Republic Day
+20250125,01/25/2025,2025,1,January,Q1,Saturday,Y,New Year / Republic Day
+20250126,26 January 2025,2025,1,January,Q1,Sunday,1,NEW YEAR / REPUBLIC DAY
+20250127,27 January 2025,2025,1,January,Q1,Monday,N,New Year / Republic Day
+20250128,01/28/2025,2025,1,January,Q1,tuesday,N,New Year / Republic Day
+20250129,2025-01-29,2025,01,January,Q1,Wednesday,N,New Year / Republic Day
+20250130,2025/01/30 00:00:00,2025,1,January ,Q1,Thursday,N,New Year / Republic Day
+20250131,2026.01.31,2025,1,January,Q1,Friday,N,Regular Trading
+20250201,01-Feb-25,2025,02,February,Q1,Saturday,Y,Regular Trading
+20250202,02/02/2025,2025,2,February,q1,Sunday,Y,Regular Trading
+20250203,02/03/2025,2025,2,February,Q1,Monday,N,Regular Trading
+20250204,02/04/2025,2025,2,February,Q1,Tuesday,N,Regular Trading
+20250205,05-Feb-25,2025,2,February,1,Wednesday,N,Regular Trading
+20250206,2025.02.06,2025,02,February,Q1,Thursday,N,Regular Trading
+20250207,07/02/2025,2025,02,February,Q1,Friday,N,Regular Trading
+20250208,08-Feb-25,2025,2,February,Q1,Saturday,Y,Regular Trading
+20250209,2025-02-09,2025,2,February,Q1,Sunday,Y,Regular Trading
+20250210,10/02/2025,2025,2,February,Q1,Monday,N,regular trading
+20250211,11 February 2025,2025,02,February,Q1,Tuesday,N,Regular Trading
+20250212,2025.02.12,2025,02,February,Q1,Wednesday,N,Regular Trading
+20250213,13-Feb-25,2025,2,FEBRUARY,Q1,Thursday,N,Regular Trading
+20250214,02/14/2025,2025,02,February,Q1,Friday,N,regular trading
+20250215,15-Feb-25,2025,2,February,Q1,Saturday,Y,Regular Trading
+20250216,2025/02/16 00:00:00,2025,2,february,Q1,Sunday ,Y,Regular Trading
+20250217,17-Feb-25,2025,2,February,Q1,Monday,Weekday,Regular Trading
+20250218,2025.02.18,2025,2,February,Q1,Tuesday,N,Regular Trading
+20250219,02/19/2025,2025,2,February,Q1,Wednesday,N,Regular Trading
+20250220,02/20/2025,2025,Feb,February,Q1,Thursday,N,Regular Trading
+20250221,2024-02-22,2025,2,February,Q1,Friday,N,Regular Trading
+20250222,22/02/2025,2025,2,February,Quarter 1,Saturday,Y,regular trading
+20250223,2025.02.23,2025,2,February,Q1,Sunday,Y,Regular Trading
+20250224,24-Feb-25,2025,2,February,Q1,Monday,N,Regular Trading
+20250225,2025-02-25,2025,2,February,Q1,tuesday,N,Regular Trading
+20250226,02/26/2025,2025,2,february,Q1,Wednesday,N,Regular Trading
+20250227,27 February 2025,2025,2,February,Q1,Thursday,N,regular trading
+20250228,28/02/2025,2025,2,FEBRUARY,Q1,Friday,N,Regular Trading
+20250301,03/01/2025,2025,3,March,Q1,Saturday ,Y,Spring Upgrade
+20250302,02 March 2025,2025,3,March,Q1,sunday,Y,Spring Upgrade
+20250303,2025/03/03 00:00:00,2025,3,March,Q1,Monday,0,Spring Upgrade
+20250304,04 March 2025,2025,03,Mar,Q1,Tuesday,N,Spring Upgrade
+20250305,2025-03-05,2025,03,March,Q1,Wednesday,0,Spring Upgrade
+20250306,06-Mar-25,2025/,03,March,Q1,Thursday,N,Spring Upgrade
+20250307,07 March 2025,2025,3,March,q1,Friday,N,Spring Upgrade
+20250308,08-Mar-25,2025,3,March,Q1,Saturday,Y,Spring Upgrade
+20250309,2025-03-09,2025,03,March,Q1,Sunday,Y,Spring Upgrade
+20250310,10/03/2025,2025,3,march,Q1,Monday,N,Spring Upgrade
+20250311,11/03/2025,2025,3,March,Q1,Tuesday,N,spring upgrade
+20250312,03/12/2025,2025,4,March,Q1,Wednesday ,N,Spring Upgrade
+20250313,2025/03/13 00:00:00,2025,3,March,Q1,Thursday,N,Spring Upgrade
+20250314,2025/03/14 00:00:00,2025,3,March,Q1,Friday,N,SPRING UPGRADE
+20250315,15/03/2025,2025,3,March,Q1,Saturday,Y,Spring Upgrade
+20250316,2025/03/16 00:00:00,2025,03,March,Q1,Sunday,Y,Spring Upgrade
+20250317,2025/03/17 00:00:00,2025,3,March,Q1,Monday,N,Spring Upgrade
+20250318,2025/03/18 00:00:00,2025,3,March,Q1,Tuesday,N,Spring Upgrade
+20250319,19-Mar-25,2025,3,March,Q1,Wednesday,N,Spring Upgrade
+20250320,03/20/2025,2025,3,March,Q1,Thursday,N,Spring Upgrade
+20250321,2025-03-21,2025,03,MARCH,Q1,Friday ,N,Spring Upgrade
+20250322,22-Mar-25,2025,3,March,Q1,Saturday,Y,SPRING UPGRADE
+20250323,23/03/2025,2025,3,Mar,Quarter 1,Sunday,Y,Spring Upgrade
+20250324,2025/03/24 00:00:00,2025,3,March,Q1,Monday,N,Spring Upgrade
+20250325,25 March 2025,2025,3,March ,Q1,Tuesday ,Weekday,Spring Upgrade
+20250326,2025.03.26,2025/,3,March,Q1,Wed,N,Spring Upgrade
+20250327,03/27/2025,2025,3,March,Q1,Thursday,N,Spring Upgrade
+20250328,2025-03-28,2025,3,March,Q1,FRIDAY,FALSE,Spring Upgrade
+20250329,2025/03/29 00:00:00,2025,3,March,Q1,Saturday,Y,Spring Upgrade
+20250330,30/03/2025,2025,3,March,Q1,Sunday,Y,Spring Upgrade
+20250331,01-Apr-25,2025,3,March,1,Monday,N,Spring Upgrade
+20250401,01-Apr-25,2025,04,April,2,Tue,N,Regular Trading
+20250402,02-Apr-25,2025,04,April,Q2,Wednesday,N,Regular Trading
+20250403,03 April 2025,2025,4,April,Q2,Thursday,N,Regular Trading
+20250404,04-Apr-25,2025,4,Apr,Q2,Friday,N,Regular Trading
+20250405,04/05/2025,2025,04,April,Q2,Saturday,Y,Regular Trading
+20250406,2025/04/06 00:00:00,2025,4,April,Q2,Sunday,Y,Regular Trading
+20250407,2025.04.07,2025,4,April,Q2,Monday,N,Regular Trading
+20250408, 2025/04/08 00:00:00 ,2025,4,April,Q2,Tuesday,N,Regular Trading
+20250409,09-Apr-25,2025,4,April,Q2,Wednesday,N,Regular Trading
+20250410,10/04/2025,2025,4,Apr,Q2,Thursday,N,Regular Trading
+20250411,11-Apr-25,2025,4,April ,Q2,Friday,N,Regular Trading
+20250412,2025/04/12 00:00:00,2025,4,April,Quarter 2,Saturday,Y,Regular Trading
+20250413,13/04/2025,2025,4,April,Q2,Sunday,Y,Regular Trading
+20250414,04/14/2025,2025,4,April,q2,MONDAY,N,Regular Trading
+20250415,2025-04-15,2025,4,April,Q2,tuesday,N,Regular Trading
+20250416,2025-04-16,2025,4,April,Q2,Wednesday,N,Regular Trading
+20250417,04/17/2025,2025,4,april,Q2,Thursday,N,Regular Trading
+20250418,04/18/2025,2025,04,April,2,Friday,N,Regular Trading
+20250419,19/04/2025,2025,04,April,2,Saturday,Y,Regular Trading
+20250420,04/20/2025,2025,4,April,Q2,Sunday,Y,Regular Trading
+20250421,2025.04.21,2025,4,April,Q2,Monday ,N,Regular Trading
+20250422,22/04/2025,2025,04,April,Q2,Tuesday,N,Regular Trading
+20250423,2025.04.23,2025,4,April ,Q2,Wednesday,N,Regular Trading
+20250424,04/24/2025,2025,4,April,Q2,Thursday,N,Regular Trading
+20250425,24 April 2025,2025,4,April,Q2,Friday,N,Regular Trading
+20250426,26 April 2025,2025,4,April ,Q2,Sat,Y,Regular Trading
+20250427,2025/04/27 00:00:00,2025,4,April,Q2,Sunday,Y,Regular Trading
+20250428,28/04/2025,2025,4,April,Q2,Monday,FALSE,Regular Trading
+20250429,2025-04-29,2025,4,April,Q2,Tuesday,N,Regular Trading
+20250430,30-Apr-25,2025,4,April,Q2,Wednesday,N,Regular Trading
+20250501,05/01/2025,2025,5,May,Q2,Thu,N,Summer Tech Fest
+20250502,2025-05-02,2025,5,May,Q2,Friday,N,Summer Tech Fest
+20250503,05/03/2025,2025,5,May ,Q2,Saturday,Y,Summer Tech Fest
+20250504,2025/05/04 00:00:00,2025,5,May,Q2,Sunday,Y,Summer Tech Fest
+20250505,05/05/2025,2025,5,May,Q2,Monday,N,Summer Tech Fest
+20250506,06/05/2025,2025,5,May,Q2,Tuesday,N,Summer Tech Fest
+20250507,2025/05/07 00:00:00,2025,5,May,2,Wednesday,N,Summer Tech Fest
+20250508,08-May-25,2025,5,May,Q2,Thursday,N,Summer Tech Fest
+20250509,2025/05/09 00:00:00,2025,05,May,Q2,Friday,N,Summer Tech Fest
+20250510,10 May 2025,2025,05,May,Q2,Saturday,TRUE,Summer Tech Fest
+20250511,11 May 2025,2025,5,May,Q2,Sunday,Y,Summer Tech Fest
+20250512,12 May 2025,2025,May,May,Q2,Monday,N,Summer Tech Fest
+20250513,13/05/2025,2025,05,May,Q2,Tuesday,N,Summer Tech Fest
+20250514,2025/05/14 00:00:00,2025,5,May,Q2,Wednesday,N,Summer Tech Fest
+20250515,2025-05-15,2025,5,May,Q2,Thursday,N,summer tech fest
+20250516,16/05/2025,2025,5,May,Q2,Friday,FALSE,Summer Tech Fest
+20250517,17 May 2025,2025,05,May,Q2,Saturday,Y,Summer Tech Fest
+20250518,05/18/2025,2025,05,May,Q2,Sunday,Weekend,Summer Tech Fest
+20250519,05/19/2025,2025,5,May,Q2,Monday,Weekday,Summer Tech Fest
+20250520,05/20/2025,2025,5,May,Q2,Tuesday,N,Summer Tech Fest
+20250521,2025-05-21,2025,5,May,Q2,Wednesday,N,Summer Tech Fest
+20250522,2025.05.22,2025,05,May,Q2,Thursday,N,Summer Tech Fest
+20250523,23 May 2025,2025,5,May,Q2,Friday,N,Summer Tech Fest
+20250524,24 May 2025,2025,5,May,Q2,SATURDAY,Y,Summer Tech Fest
+20250525,2025-05-25,2025,05,May,Q2,Sunday,Y,Summer Tech Fest
+20250526,05/26/2025,2025,5,May,Q2,Monday,FALSE,Summer Tech Fest
+20250527,27 May 2025,2025,5,May,Q2,Tuesday,N,Summer Tech Fest
+20250528,2025-05-28,2025,05,May,Q2,Wednesday,N,Summer Tech Fest
+20250529,2025-05-29,2025,05,May,Q2,Thursday,N,Summer Tech Fest
+20250530,2025-05-30,2025,05,May,Q2,Friday,N,
+20250531,31-May-25,2025,5,May,2,Saturday,Y,Summer Tech Fest
+20250601,01-Jun-25,2025,06,Jun,Q2,Sunday,Y,Summer Tech Fest
+20250602,2025.06.02,2025,6,June,Q2,Monday,N,Summer Tech Fest
+20250603,03/06/2025,2025,6,June,Q2,Tuesday,N,Summer Tech Fest
+20250604,2025.06.04,2025,6,June,Q2,Wednesday,N,Summer Tech Fest
+20250605,06/05/2025,2025,6,June,Q2,Thursday,N,Summer Tech Fest
+20250606,06/06/2025,2025,6,June,Q2,Friday,N,Summer Tech Fest
+20250607,07-Jun-25,2025,6,June,Q2,Saturday,Y,Summer Tech Fest
+20250608,08 June 2025,2025,6,June,Q2,sunday,Y,Summer Tech Fest
+20250609,09/06/2025,2025,06,June,Q2,Monday,N,Summer Tech Fest
+20250610,2025-06-10,2025,6,JUNE,Q2,Tuesday,0,Summer Tech Fest
+20250611,2025/06/11 00:00:00,2025,6,June,Q2,Wed,N,Summer Tech Fest
+20250612,12/06/2025,2025/,6,June,Q2,Thursday,N,Summer Tech Fest
+20250613,13 June 2025,2025,6,June ,Q2,friday,N,Summer Tech Fest
+20250614,06/14/2025,2025,6,June,Q2,Saturday,Y,Summer Tech Fest
+20250615,15-Jun-25,2025,6,June,Quarter 2,Sunday,Y,Summer Tech Fest
+20250616,2025.06.16,2025,06,June,Quarter 2,Monday,N,summer tech fest
+20250617,17-Jun-25,2025,6,June,Q2,Tuesday,N,Summer Tech Fest
+20250618,18 June 2025,2025,6,June,q2,Wednesday,N,Summer Tech Fest
+20250619,19-Jun-25,2025,6,June,Q2,Thursday,N,Summer Tech Fest
+20250620,06/20/2025,2025,6,June,Q2,friday,N,Summer Tech Fest
+20250621, 21/06/2025 ,2025,6,June,Q2,Saturday,Y,Summer Tech Fest
+20250622,06/22/2025,2025,6,june,Q2,Sunday,Y,Summer Tech Fest
+20250623,23 June 2025,2025,6,June,Q2,Monday,N,Summer Tech Fest
+20250624,24-Jun-25,2025,06,June,Q2,Tuesday,N,Summer Tech Fest
+20250625,25-Jun-25,2025,6,June,Q2,Wednesday,N,Summer Tech Fest
+20250626,2025/06/26 00:00:00,2025,6,June,Q2,Thursday,N,Summer Tech Fest
+20250627,06/27/2025,2025,6,June ,Q2,Friday,N,Summer Tech Fest
+20250628,28 June 2025,2025,6,june,Q2,Saturday,Y,Summer Tech Fest
+20250629,2025.06.29,2025,6,June,Q2,Sunday,Y,Summer Tech Fest
+20250630,2025-06-30,2025,06,June ,Q2,Monday,N,Summer Tech Fest
+20250701,2025-07-31,2025,07,July,Q3,Tuesday,N,Back to Campus
+20250702,02 July 2025,2025,07,July,Q3,Wednesday,N,Back to Campus
+20250703,03 July 2025,2025,8,July,Q3,Thursday,Weekday,Back to Campus
+20250704,2025/07/04 00:00:00,2025,7,July,Q3,Friday,N,Back to Campus
+20250705,07/05/2025,2025,7,July,Q3,Saturday,TRUE,Back to Campus
+20250706,06-Jul-25,2025,7,Jul,Q3,Sunday,Y,Back to Campus
+20250707,2025-07-07,2025,07,July,q3,Monday,N,Back to Campus
+20250708,2025/07/08 00:00:00,2025,07,July,Q3,Tuesday,N,Back to Campus
+20250709,09/07/2025,2025,7,July,Q3,Wednesday,N,BACK TO CAMPUS
+20250710,10/07/2025,2025,7,July,Q3,Thursday,N,Back to Campus
+20250711,11-Jul-25,2025,7,July,Q3,Friday,N,Back to Campus
+20250712,07/12/2025,2025,7,July,Q3,Saturday,Y,Back to Campus
+20250713,13 July 2025,2025,7,July,Q3,Sunday,Y,Back to Campus
+20250714,2025.07.14,2025,7,July,Q3,Monday,N,Back to Campus
+20250715,2025/07/15 00:00:00,2025,7,July,Q3,Tuesday,0,Back to Campus
+20250716,16 July 2025,2025,07,July,Q3,Wednesday,N,Back to Campus
+20250717,2025.07.17,2025,07,July ,Q3,Thu,N,Back to Campus
+20250718,18/07/2025,2025,7,JULY,q3,Friday,N,Back to Campus
+20250719,2025-07-19,2025,7,Jul,Q3,Saturday,Y,Back to Campus
+20250720,2025/07/20 00:00:00,2025,7,July,q3,Sunday,Y,Back to Campus
+20250721,07/21/2025,2025,7,July,Q3,Monday,N,Back to Campus
+20250722,2025.07.22,2025,7,July,q3,Tuesday,N,Back to Campus
+20250723,23/07/2025,2025,7,July,Q3,Wednesday,N,Back to Campus
+20250724,2025/07/24 00:00:00,2025,7,July,3,Thursday,N,Back to Campus
+20250725,08/24/2025,2025,07,July,Q3,friday,N,Back to Campus
+20250726,2025-07-26,2025,07,July,Q3,Saturday,Y,Back to Campus
+20250727,07/27/2025,2025,7,July,Q3,Sunday,Y,Back to Campus
+20250728,2025-07-28,2025,7,July,Q3,Monday,N,Back to Campus
+20250729,29-Jul-25,2025,07,July,Q3,tuesday,N,Back to Campus
+20250730,07/30/2025,2025,07,July,Q3,Wednesday,N,Back to Campus
+20250731,2025/07/31 00:00:00,2025,07,July,Quarter 3,Thursday,N,Back to Campus
+20250801,01/08/2025,2025,8,August,Q3,Friday,N,Back to Campus
+20250802,2025/08/02 00:00:00,2025,8,August,Q3,Saturday,Weekend,Back to Campus
+20250803,08/03/2025,2025,8,August,Q3,sunday,Y,Back to Campus
+20250804,2025.08.04,2025,8,August,Q3,Mon,N,Back to Campus
+20250805,2025-08-05,2025,8,August,Q3,Tuesday,N,Back to Campus
+20250806,2025-08-06,2025,8,August,Q3,Wednesday,N,Back to Campus
+20250807,2025/08/07 00:00:00,2025,8,August,Q3,Thursday,FALSE,Back to Campus
+20250808,08 August 2025,2025,8,August,Quarter 3,Friday,N,Back to Campus
+20250809,09-Aug-25,2025,8,August,Q3,Saturday,Y,Back to Campus
+20250810,10/08/2025,2025,8,August,Q3,Sunday,Y,Back to Campus
+20250811,2025.08.11,2025,8,August,Q3,Monday,N,Back to Campus
+20250812,12 August 2025,2025,8,August,Q3,Tuesday,N,Back to Campus
+20250813,13-Aug-25,2025,8,August,Q3,Wednesday,N,Back to Campus
+20250814,14 August 2025,2025,08,August,Q3,Thursday,N,Back to Campus
+20250815,15-Aug-25,2025,8,August,Q3,Friday,N,-
+20250816,16 August 2025,2025,8,August,Q3,Saturday,Y,Back to Campus
+20250817,17-Aug-25,2025,8,Aug,Q3,Sunday,Y,Back to Campus
+20250818,2025.08.18,2025,8,August,Quarter 3,Monday,FALSE,Back to Campus
+20250819,19/08/2025,2025,8,August,Q3,Tuesday,N,Back to Campus
+20250820,2025.08.20,2025,8,August,3,Wednesday,N,Back to Campus
+20250821,08/21/2025,2025,Aug,August,3,Thursday,N,Back to Campus
+20250822,22 August 2025,2025,8,August,3,Friday,N,Back to Campus
+20250823,2025/08/23 00:00:00,2025,8,August,Q3,Saturday,Y,Back to Campus
+20250824,2025/08/24 00:00:00,2025,8,August,Q3,Sunday,Y,Back to Campus
+20250825,25-Aug-25,2025,08,August,Quarter 3,Monday,N,Back to Campus
+20250826,26/08/2025,2025,8,August,Q3,Tuesday,N,Back to Campus
+20250827,08/27/2025,2025,8,August,Q3,WEDNESDAY,N,Back to Campus
+20250828,2025-08-28,25,8,August,Q3,Thursday,N,Back to Campus
+20250829,2025.08.29,2025,8,August,Q3,Friday,N,Back to Campus
+20250830,2025-08-30,2025,8,August,Q3,Saturday ,Y,Back to Campus
+20250831,2025/08/31 00:00:00,2025,8,August,Q3,Sunday,Y,Back to Campus
+20250901,09/01/2025,2025,09,September,Q3,Monday,N,UPGRADE DAYS
+20250902,02-Sep-25,2025,9,September ,Q3,Tuesday,FALSE,Upgrade Days
+20250903,2025.09.03,2025,09,September,Q3,Wednesday,N,Upgrade Days
+20250904,2025/09/04 00:00:00,2025,09,September,q3,Thursday,N,Upgrade Days
+20250905,2025/09/05 00:00:00,2025,9,September,Q3,Friday,N,UPGRADE DAYS
+20250906,2025.09.06,2025,9,SEPTEMBER,Q3,Saturday,TRUE,Upgrade Days
+20250907,09/07/2025,2025,9,September,Q3,Sunday,Y,Upgrade Days
+20250908,2025/09/08 00:00:00,2025,9,September,Q3,Monday,N,Upgrade Days
+20250909,2025/09/09 00:00:00,2025,9,September,Q3,Tuesday,N,Upgrade Days
+20250910,10-Sep-25,2025,9,September,Q3,Wednesday,0,Upgrade Days
+20250911,2025-09-11,2025,9,September,Q3,Thursday,N,Upgrade Days
+20250912,09/12/2025,2025,09,September,Q3,Friday,N,Upgrade Days
+20250913,13 September 2025,2025,9,September,Q3,SATURDAY,Y,Upgrade Days
+20250914,2025/09/14 00:00:00,2025,9,September,Q3,Sun,Y,Upgrade Days
+20250915,2025.09.15,2025,09,September ,Q3,Monday,N,Upgrade Days
+20250916,2025.09.16,2025,09,September,Q3,Tuesday,N,Upgrade Days
+20250917,17-Sep-25,2025,09,september,Q3,Wednesday,N,Upgrade Days
+20250918,18 September 2025,2025,9,September,Q3,Thursday,N,Upgrade Days
+20250919,2025-09-19,2025,9,Sep,Q3,Friday,N,Upgrade Days
+20250920,2025-99-01,2025,9,September,3,Saturday,Y,Upgrade Days
+20250921,2025/09/21 00:00:00,2025,9,September,Q3,Sunday,Weekend,Upgrade Days
+20250922,22 September 2025,2025,09,September,q3,Monday ,N,Upgrade Days
+20250923,23/09/2025,2025,9,September,Q3,Tuesday,N,Upgrade Days
+20250924,2025-09-24,2025,9,September,Q3,Wednesday,N,Upgrade Days
+20250925,25 September 2025,2025,09,September,q3,Thursday,N,Upgrade Days
+20250926,26/09/2025,2025,09,September ,Q3,Friday,N,Upgrade Days
+20250927,27-Sep-25,2025,9,September,Q3,Saturday,Y,Upgrade Days
+20250928,2025.09.28,2025,9,September,Q3,Sunday,Y,Upgrade Days
+20250929,2025-09-29,2025,9,September,q3,Monday,N,Upgrade Days
+20250930,2025.09.30,2025,9,September,Quarter 3,Tuesday,N,Upgrade Days
+20251001,2025/10/01 00:00:00,2025,10,October,Q4,Wednesday,N,Festive Sale
+20251002,02/10/2025,2025,10,October ,4,Thursday,N,FESTIVE SALE
+20251003,2025.10.03,2025,10,October,Q4,Friday,N,Festive Sale
+20251004,2025.10.04,2025,10,October,Q4,Saturday,Weekend,Festive Sale
+20251005,2025.10.05,2025,10,October,Q4,Sunday,Y,Festive Sale
+20251006,2025.10.06,2025,10,October,Q4,Monday,N,Festive Sale
+20251007,2025/09/30 00:00:00,2025,10,October,Q4,Tuesday,0,Festive Sale
+20251008,08/10/2025,2025,10,October,Q4,Wednesday,N,Festive Sale
+20251009,09 October 2025,2025,10,October,Q4,Thursday,N,Festive Sale
+20251010,10 October 2025,2025,10,October,Q4,Friday,N,Festive Sale
+20251011,2025/10/11 00:00:00,2025,10,October,Q4,Saturday,Y,Festive Sale
+20251012,10/12/2025,2025,10,October,Q4,Sunday,Y,Festive Sale
+20251013,13-Oct-25,2025,10,October ,Q4,Monday,N,Festive SALE
+20251014,2025-10-14,2025,10,Oct,Q4,Tuesday,N,festive sale
+20251015,15/10/2025,2025,10,October,4,Wednesday,N,Festive Sale
+20251016,2025.10.16,2025,10,October,Q4,Thursday,N,Festive Sale
+20251017,17/10/2025,2025,10,October,Q4,Friday,N,Festive Sale
+20251018,2025.10.18,2025,10,October,Q4,Saturday,Weekend,Festive Sale
+20251019,19/10/2025,2025,10,October,Q4,Sunday,Y,Festive Sale
+20251020,2025.10.20,2025,10,October,Quarter 4,Monday,N,Festive Sale
+20251021,10/21/2025,2025,10,October,Q4,TUESDAY,N,Festive Sale
+20251022,22/10/2025,2025,10,October,Q4,Wednesday,N,Festive Sale
+20251023,23-Oct-25,2025,10,October ,Q4,Thursday,N,Festive Sale
+20251024,2025-10-24,2025,10,October,Q4,Friday,N,Festive Sale
+20251025,2025.10.25,2025,10,October,Q4,Saturday,Y,Festive Sale
+20251026,2025/10/26 00:00:00,2025,11,Oct,Q4,Sunday,Y,Festive Sale
+20251027,2025/10/27 00:00:00,2025,10,October,Q4,Monday,N,Festive SALE
+20251028,10/28/2025,2025,10,October,Q4,Tuesday,N,Festive Sale
+20251029,2025-10-29,2025,10,October,Q4,Wednesday,N,Festive Sale
+20251030,30-Oct-25,2025,10,October,Q4,Thursday,N,Festive Sale
+20251031,2025.10.31,2025,10,October,Q4,Friday,N,Festive Sale
+20251101,01/11/2025,2025,11,November,Q4,Saturday,Y,Diwali / Black Friday
+20251102,02-Nov-25,2025/,11,November,Q4,Sunday,Y,Diwali / Black Friday
+20251103,2025-11-03,2025,11,November,Quarter 4,MONDAY,N,Diwali / Black Friday
+20251104,04/11/2025,2025,11,November,Q4,Tuesday,N,Diwali / Black Friday
+20251105,05/11/2025,2025,11,November,Q4,Wednesday,N,Diwali / Black Friday
+20251106,2025.11.06,2025,11,November,Q4,Thursday,N,Diwali / Black Friday
+20251107,2025/11/07 00:00:00,2025,11,November,Q4,Friday,N,Diwali / Black Friday
+20251108,2025.11.07,2025,11,Nov,Q4,Saturday,Y,Diwali / Black Friday
+20251109,2025-11-09,2025,11,November,Q4,Sunday,Y,Diwali / Black Friday
+20251110,10 November 2025,2025,11,Nov,Q4,Monday,FALSE,Diwali / Black Friday
+20251111,2025/11/11 00:00:00,2025,11,November,Q4,Tuesday,N,Diwali / Black Friday
+20251112,11/12/2025,2025,11,November,4,Wednesday,N,Diwali / Black Friday
+20251113,2025/11/13 00:00:00,2025,11,november,Quarter 4,Thursday,N,Diwali / Black Friday
+20251114, 2025/11/14 00:00:00 ,2025,11,November,4,Friday,N,Diwali / Black Friday
+20251115,11/15/2025,2025,11,November ,Q4,Saturday,Y,Diwali / Black Friday
+20251116,2025.11.16,2025,11,November,Q4,Sun,Y,Diwali / Black Friday
+20251117,17/11/2025,2025,11,November ,q4,Monday,N,Diwali / Black Friday
+20251118,2025.11.18,2025,11,November,Q4,Tuesday,N,Diwali / Black Friday
+20251119,2025.11.19,2025,11,November,Q4,Wednesday,Weekday,Diwali / Black Friday
+20251120,20 November 2025,2025,11,November,Q4,Thursday ,N,Diwali / Black Friday
+20251121,21/11/2025,2025,11,November,Q4,Friday,N,na
+20251122,22 November 2025,2025,11,November,4,Saturday,Y,Diwali / Black Friday
+20251123,23 November 2025,2025,11,November,Q4,Sunday,Y,DIWALI / BLACK FRIDAY
+20251124,24/11/2025,2025,11,November,Q4,Monday ,N,Diwali Offers
+20251125,2025.11.25,2025,11,November,Q4,Tuesday,N,DIWALI / BLACK FRIDAY
+20251126,26/11/2025,2025,11,November,Q4,wednesday,N,diwali / black friday
+20251127,2025/11/27 00:00:00,2025,11,November,Q4,Thursday,FALSE,Diwali / Black Friday
+20251128,11/28/2025,2025,11,November,Quarter 4,Friday,N,Diwali / Black Friday
+20251129,2025-11-29,2025,11,November,Q4,SATURDAY,Y,Diwali / Black Friday
+20251130,30 November 2025,2025,11,November,Q4,Sunday,Y,Diwali / Black Friday
+20251201,01 December 2025,2025,12,December,Q4,Monday,N,Year End Sale
+20251202,12/02/2025,2025,12,December,Q4,Tuesday,N,Year End Sale
+20251203,03 December 2025,2025,12,December,Q4,Wednesday,N,Year End Sale
+20251204,2025.12.04,2025,12,December,q4,Thursday,N,Year End Sale
+20251205,05-Dec-25,2025,12,december,Q4,Friday,N,Year End Sale
+20251206,2025.12.06,2025,12,December ,Q4,Saturday,Y,Year End Sale
+20251207,2025/12/07 00:00:00,2025,12,December,Q4,Sunday,Y,Year End Sale
+20251208,2025.12.08,2025,12,December,Q4,Monday,N,YEAR END SALE
+20251209,12/09/2025,2025,12,December,Q4,tuesday,N,Year End Sale
+20251210, 12/10/2025 ,2025,12,December,Q4,Wednesday,N,Year End Sale
+20251211,11/12/2025,2025,12,Dec,Q4,Thursday,N,Year End Sale
+20251212,2025.12.12,2025,12,December,Q4,Friday,N,Year End Sale
+20251213,13 December 2025,2025,12,December,Q4,Saturday,Y,Year End Sale
+20251214,12/14/2025,2025,12,December,Q4,Sunday,Y,Year End Sale
+20251215,12/15/2025,2025,12,December,Q4,Mon,N,Year End Sale
+20251216,16-Dec-25,2025,12,December,Q4,tuesday,N,Year End Sale
+20251217,2025-12-17,2025,12,December,Q4,Wednesday,N,Year End SALE
+20251218,2025/12/18 00:00:00,2025,12,December,4,Thursday,N,Year End Sale
+20251219,19-Dec-25,2025,12,december,Q4,Friday,N,Year End Sale
+20251220,20-Dec-25,2025,12,December,Q4,Saturday,Y,Year End Sale
+20251221,21 December 2025,2025,12,December,Q4,Sunday ,Y,Year End Sale
+20251222,22/12/2025,2025,12,Dec,Q4,Monday,N,Year End Sale
+20251223,23-Dec-25,2025,12,December,Q4,Tuesday,N,Year End Sale
+20251224,2025.12.24,2025,12,December,Q4,Wednesday,N,Year End Sale
+20251225,25/12/2025,2025,12,December,Q4,Thursday,N,Year End Sale
+20251226,26-Dec-25,2025,12,December,Q4,Friday,N,Year End Sale
+20251227,27/12/2025,2025,12,December,Q4,SATURDAY,Y,Year End Sale
+20251228,28-Dec-25,2025,12,December,Q4,Sunday,Y,Year End Sale
+20251229,2025-12-29,2025,12,December,4,Monday,N,Year End Sale
+20251230,30/12/2025,2025,12,December,q4,Tuesday,N,Year End Sale
+20251231,31/12/2025,2025,12,December,Q4,Wednesday ,N,Year End Sale

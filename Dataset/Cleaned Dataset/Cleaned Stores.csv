@@ -1,0 +1,29 @@
+,store_key,store_name,channel_type,city,state,region,location_type,opening_date,store_status
+0,S001,Techsquare Delhi Hub,Retail,Delhi,Delhi,North,Business Park,2018-01-03,Close
+1,S002,Techsquare Noida Flagship,Retail,Noida,Uttar Pradesh,North,Express Outlet,2021-06-25,Open
+2,S003,Techsquare Gurugram Express,B2b,Gurugram,Haryana,North,Business Park,2018-08-22,Open
+3,S004,Techsquare Kanpur Mall,Retail,Kanpur,Uttar Pradesh,North,High Street,2023-07-28,
+4,S005,Techsquare Lucknow Mall,Retail,Lucknow,Uttar Pradesh,North,Mall,2021-02-14,Open
+5,S006,Techsquare Jaipur Hub,Retail,Jaipur,Rajasthan,,Express Outlet,,Open
+6,S007,Techsquare Chandigarh Central,Retail,Chandigarh,Chandigarh,North,Business Park,2024-04-14,Open
+7,S008,Techsquare Mumbai Central,Retail,Mumbai,,West,Business Park,2015-09-07,Open
+8,S009,Techsquare Pune Central,Retail,Pune,Maharashtra,West,Business Park,2022-03-21,Open
+9,S010,Techsquare Ahmedabad Express,Retail,Ahmedabad,Gujarat,West,Flagship,2022-05-07,Open
+10,S011,Techsquare Surat Flagship,Retail,Surat,Gujarat,West,Business Park,2019-06-15,
+11,S012,Techsquare Indore Mall,Retail,Indore,Madhya Pradesh,Central,High Street,2018-05-05,Open
+12,S013,Techsquare Nagpur Express,Retail,Nagpur,Maharashtra,Central,Business Park,2017-09-17,Open
+13,S014,Techsquare Bengaluru Mall,Retail,Bengaluru,Karnataka,South,Business Park,2019-09-25,Open
+14,S015,Techsquare Chennai Hub,Retail,Chennai,Tamil Nadu,South,Express Outlet,2016-11-18,Open
+15,S016,Techsquare Hyderabad Mall,B2b,Hyderabad,Telangana,South,Mall,2019-10-10,Open
+16,S017,Techsquare Kochi Central,Retail,Kochi,Kerala,South,Flagship,2019-06-02,Open
+17,S018,Techsquare Coimbatore Express,Retail,Coimbatore,Tamil Nadu,South,Flagship,2017-01-03,
+18,S019,Techsquare Kolkata Hub,Retail,Kolkata,West Bengal,East,Business Park,2023-02-15,Open
+19,S020,Techsquare Bhubaneswar Mall,Retail,Bhubaneswar,Odisha,,Express Outlet,2024-04-08,Open
+20,S021,Techsquare Guwahati Flagship,Retail,Guwahati,Assam,East,Business Park,2023-09-03,Open
+21,S022,Techsquare Online,Online,Bengaluru,Karnataka,South,Web Store,2023-11-27,Open
+22,S023,Mobilehub Marketplace,Marketplace,Mumbai,Maharashtra,West,Third-Party Marketplace,2023-02-12,
+23,S024,Digitalkart Marketplace,Marketplace,Delhi,Delhi,North,Third-Party Marketplace,2023-09-09,Open
+24,S025,Enterprise Direct,B2b,Gurugram,Haryana,North,Corporate Portal,2019-08-11,Close
+25,S026,Campus Tech Store,Online,Pune,Maharashtra,West,Campus Portal,2020-07-10,Open
+26,S027,Partner Network West,Partner,Ahmedabad,Gujarat,West,Reseller Partner,2018-08-23,Open
+27,S028,Partner Network South,Partner,Chennai,Tamil Nadu,South,Reseller Partner,2023-07-08,Open

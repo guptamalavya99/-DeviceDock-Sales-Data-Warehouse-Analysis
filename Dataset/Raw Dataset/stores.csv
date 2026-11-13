@@ -1,0 +1,29 @@
+store_key,store_code,store_name,channel_type,city,state,region,location_type,opening_date_text,store_status
+S001,SITE-001,TechSquare Delhi Hub,Retail,Delhi,Delhi,North, Business Park,03/01/2018,Inactive
+S002,SITE-002,TechSquare Noida Flagship,RETAIL,Noida,  Uttar Pradesh  ,North,Express Outlet,06/25/2021,ACTIVE
+S003,SITE-003,TechSquare Gurugram Express,B2B,Gurugram,Haryana ,North,Business Park,22/08/2018,Yes
+S004,SITE-004,TECHSQUARE KANPUR MALL,Retail,Kanpur,Uttar Pradesh,North,High Street, 2023.07.28 ,Open
+S005,SITE-005,techsquare lucknow mall,retail,Lucknow,Uttar Pradesh,North,Mall,2021/02/14 00:00:00,ACTIVE
+S006,SITE-006,TechSquare Jaipur Hub,Retail,Jaipur,Rajasthan,?,Express Outlet,na,ACTIVE
+S007,SITE-007,TechSquare Chandigarh Central,Retail,Chandigarh,Chandigarh,North,Business Park,14 April 2024,Y
+S008,SITE-014,TechSquare Mumbai Central,Retail Outlet,Mumbai,?,West,Business Park,2015/09/07 00:00:00,true
+S009,SITE-009,TechSquare Pune Central ,Retail,Pune,Maharashtra, West,Business Park,03/21/2022,ACTIVE
+S010,SITE-010,TechSquare Ahmedabad Express,Retail,Ahmedabad,Gujarat,west,flagship,2022-05-07,Y
+S011,SITE-011,TECHSQUARE SURAT FLAGSHIP,Retail,Surat,Gujarat,West,Business Park,2019/06/15 00:00:00,Open
+S012,SITE-012,TechSquare Indore Mall,retail,Indore,Madhya Pradesh,Central,High Street,05/05/2018,ACTIVE
+S013,SITE-013,TechSquare Nagpur Express,Retail,Nagpur,Maharashtra ,Central,Business Park,17 September 2017,Yes
+S014,SITE-014,TechSquare Bengaluru Mall,Retail,Bengaluru,Karnataka,S,Business Park,2019-09-25,true
+S015,SITE-015,TechSquare Chennai Hub,retail,Chennai,Tamil Nadu,South Zone,Express Outlet ,18 November 2016,ACTIVE
+S016,SITE-016,TechSquare Hyderabad Mall,B2B,Hyderabad,Telangana ,S,Mall,10/10/2019,1
+S017,SITE-017,TechSquare Kochi Central,RETAIL,Kochi,Kerala,South,Flagship,02 June 2019,Yes
+S018,SITE-018,TechSquare Coimbatore Express,Retail,Coimbatore,Tamil Nadu,South,Flagship,2017.01.03,Open
+S019,SITE-021,TechSquare Kolkata Hub,RETAIL,Kolkata,West Bengal,East,Business Park,15 February 2023,ACTIVE
+S020,SITE-020,TechSquare Bhubaneswar Mall,Retail Outlet,Bhubaneswar,Odisha,,Express Outlet,2024/04/08 00:00:00,Yes
+S021,SITE-021,TechSquare Guwahati Flagship,Retail,Guwahati,Assam,East, Business Park,03/09/2023,Yes
+S022,SITE-020,TechSquare Online,Online,Bengaluru,Karnataka,South,Web Store,11/27/2023,ACTIVE
+S023,SITE-023,MobileHub Marketplace ,Marketplace,Mumbai,Maharashtra,West,Third-party Marketplace,2023/02/12 00:00:00,Open
+S024,SITE-024,DigitalKart Marketplace,Marketplace,Delhi,Delhi,north,Third-party Marketplace,09/09/2023,ACTIVE
+S025,SITE-025,Enterprise Direct,B2B,Gurugram, Haryana,North,Corporate Portal,2019/08/11 00:00:00,Inactive
+S026,SITE-026,Campus Tech Store,online,pune,MAHARASHTRA,West Zone,Campus Portal,2020-07-10,Yes
+S027,SITE-027,Partner Network West,PARTNER,Ahmedabad,Gujarat,West,Reseller Partner,2018-08-23,ACTIVE
+S028,SITE-028,Partner Network South,Partner,Chennai,Tamil Nadu,South,Reseller Partner,08-Jul-23,1

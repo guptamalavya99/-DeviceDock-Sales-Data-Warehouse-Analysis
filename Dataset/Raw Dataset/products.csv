@@ -1,0 +1,163 @@
+product_key,sku,product_name,brand,category,subcategory,product_specs,list_price,standard_cost,warranty_months,is_active
+P0001,MOT-SMA-0001,Motorola Phone 16,Motorola ,Smartphones,Premium Phone,4G; 256GB; 6GB RAM,95 798.63,"60,511",24 months,Yes
+P0002,MOT-SMA-0002,Motorola iPhone 4,Motorola,Smartphones,Android Phone,4G; 128GB; 8GB RAM,"10,123.48",8616.97,12M,true
+P0003,VIV-SMA-0003,Vivo Pixel Ultra,Vivo,Smartphones,Android Phone,4G; 512GB; 6GB RAM,142508.95,104756.15,6,1
+P0004,NOT-SMA-0004,Nothing Nova 2025,Nothing,Smartphones,Premium Phone,5G; 256GB; 12GB RAM,"Rs. 36,522/-","INR 26,427.63",12M,true
+P0005,SAM-SMA-0005,Samsung Nova Max,Sam sung,Smart Phones,5G Phone,4G; 128GB; 16GB RAM,"60,552.12",41422.15,36 months,Y
+P0006,GOO-SMA-0006,Google Redmi 2025 ,GOOGLE,Smart Phones,Budget Phone,4G; 256GB; 8GB RAM,47101.45,"34,408",12M,Y
+P0007,OPP-SMA-0007,?,OPPO,  Smartphones  ,Premium Phone,5G; 512GB; 16GB RAM,TBD,12662.88,12,ACTIVE
+P0008,MOT-SMA-0008,Motorola Nord 9,Motorola,Smartphones,5G Phone,4G; 128GB; 12GB RAM,"37,087.38","Rs. 28,739/-",36,Yes
+P0009,APP-SMA-0009,iPhone 16 Pro,Apple,Smartphones,Premium Phone,4G; 512GB; 16GB RAM,33212.80,26079.61,1 year(s),true
+P0010,APP-SMA-0010,iPhone 14 Plus,Apple, Smartphones,Android Phone,4G; 512GB; 12GB RAM,"11,090","₹7,038",2 year(s),Y
+P0011,MOT-SMA-0011,Motorola iPhone 4,Motorola,Smartphones,Budget Phone,5G; 512GB; 8GB RAM,"₹11,372",7453.08,12 months,Yes
+P0012,SAM-SMA-0012,Samsung Moto 4,samsung,SMARTPHONES,Premium Phone,5G; 512GB; 8GB RAM,"INR 51,799.41",32 770.52,36 months,true
+P0013,ONE-SMA-0013,OnePlus Edge 4,OnePlus,smartphone,Budget Phone,5G; 128GB; 8GB RAM,"107,249.60","78,619.94",12M,Y
+P0014,XIA-SMA-0014,Xiaomi Galaxy 9,Xiaomi,Smartphones,Budget Phone,5G; 1TB; 6GB RAM,"Rs. 9,751/-","Rs. 6,250/-",2 year(s),true
+P0015,ONE-SMA-0015,OnePlus Redmi 16,OnePlus,smartphones,Premium Phone,4G; 1TB; 12GB RAM,"129,927.91",85432.73,6 months,0
+P0016,ONE-SMA-0016, OnePlus Redmi 5,OnePlus,smartphone,Budget Phone,5G; 1TB; 6GB RAM,"15,907.94",11963.59,12,ACTIVE
+P0017,DEL-LAP-0031,Nothing iPhone 9,Nothing,Smartphones,5G Phone,5G; 256GB; 12GB RAM,"₹73,372",58 303.10,12 months,Y
+P0018,OPP-SMA-0018,oppo nova 10,OPPO,Smartphones,5G Phone,5G; 256GB; 12GB RAM,"95,961.92",74301.42,12M,true
+P0019,XIA-SMA-0019,Xiaomi Phone 16,Mi,Smartphones,5G Phone,5G; 1TB; 12GB RAM,138724.58,"90,707",36M,ACTIVE
+P0020,ONE-SMA-0020,OnePlus Galaxy 2023,ONEPLUS,Smartphones,Premium Phone,4G; 128GB; 12GB RAM,"73,351.74",46867.09,24M,Yes
+P0021,GOO-SMA-0021,Google Phone Plus,google,Smartphones,Premium Phone,4G; 1TB; 16GB RAM,133328.30,"₹89,916",36,true
+P0022,VIV-SMA-0022,Vivo Reno 12,Vivo,Smartphones,5G Phone,4G; 1TB; 16GB RAM,"₹81,916","INR 61,646.15",6,ACTIVE
+P0023,LEN-LAP-0046,Vivo Nova 2023,Vivo,Smartphones,Android Phone,5G; 256GB; 6GB RAM,"16,645","₹12,294",6 months,ACTIVE
+P0024,OPP-SMA-0024,OPPO Edge Max,OPPO,Mobiles,Android Phone,5G; 256GB; 8GB RAM,"INR 27,249.43","₹19,879",6,No
+P0025,ONE-SMA-0025,OnePlus Reno 7,  OnePlus  ,Mobile,5G Phone,5G; 1TB; 12GB RAM,15212.73,9448.64,24,ACTIVE
+P0026,XIA-SMA-0026,Xiaomi Edge 14,Xiaomi,Smartphones,Android Phone,5G; 256GB; 6GB RAM,"INR 61,100.01","50,389.01",1 year(s),Yes
+P0027,VIV-SMA-0027,Vivo Nord 10,  Vivo  ,Smartphones,Budget Phone,?,"INR 29,931.24","₹25,300",1 year(s),true
+P0028,SAM-SMA-0028,Samsung Pixel Lite,Samsung,Smartphones,5G Phone,5G; 512GB; 16GB RAM,71408.81,"45,206.59",24,1
+P0029,DEL-LAP-0029,Dell VivoBook X, Dell,Laptops,Consumer Laptop,Ryzen 7; 8GB; 1TB SSD,32612.60,26051.40,12,Y
+P0030,FIT-SMA-0087,Dell VivoBook 14,Dell,Lap Top,Ultrabook,M3; 32GB; 256GB SSD,34 521.83,"28,034.85",1 year(s),ACTIVE
+P0031,DEL-LAP-0031,Dell Swift 15,Dell,Lap Top,Gaming Laptop,Ryzen 7; 8GB; 1TB SSD,50045.33,"₹41,788",24 months,true
+P0032,HP-LAP-0032,HP IdeaPad 16,HP,Laptops ,Consumer Laptop,Core i7; 8GB; 256GB SSD,"110,927","₹68,798",3 year(s),Yes
+P0033,LEN-LAP-0033,Lenovo Pavilion 15,Lenovo,Notebook,Gaming Laptop,Core i5; 16GB; 1TB SSD,"₹179,509",140800.16,1 year(s),Y
+P0034,SAM-LAP-0034,Samsung IdeaPad Pro,Samsung,Laptops,Business Laptop,Core i7; 8GB; 256GB SSD,"₹30,438","20,339.27",6,Y
+P0035,APP-LAP-0035,Apple MacBook Pro,apple ,  Laptops  ,Ultrabook,M2; 16GB; 512GB SSD,"₹50,877","₹34,267",12,1
+P0036,SAM-LAP-0036,Samsung Inspiron X,SAMSUNG,Lap Top,Business Laptop,M3; 16GB; 1TB SSD,"158,415.98","₹106,043",1 year(s),true
+P0037,HP-LAP-0037,HP VivoBook X,HP,laptop,Consumer Laptop,Ryzen 5; 32GB; 512GB SSD,"184,640.31","₹131,152",12,1
+P0038,APP-SMA-0010,asus ideapad 14,ASUS,Laptops,Business Laptop,M3; 32GB; 1TB SSD,40127.58,30903.43,12 months,Yes
+P0039,HP-LAP-0039,HP VivoBook Pro,HP,  Laptops  ,Gaming Laptop,M2; 32GB; 256GB SSD,204176.17,149746.73,24M,1
+P0040,APP-LAP-0040,Apple Inspiron 15,APPLE,Laptops,Consumer Laptop,M3; 16GB; 1TB SSD,87134.82,71848.06,12 months,Y
+P0041,APP-LAP-0041,Apple ZenBook X,APPLE,Laptops,Gaming Laptop,Core i7; 32GB; 512GB SSD,"INR 60,145.20","₹45,476",6,ACTIVE
+P0042,DEL-LAP-0042,  Dell MacBook 15  ,Dell,Laptops,Business Laptop,-,"INR 166,442.03",139 820.20,12 months,ACTIVE
+P0043,LEN-LAP-0043,Lenovo MacBook X,lenovo,Laptops,Gaming Laptop,M2; 32GB; 512GB SSD,unknown,"₹88,554",24,1
+P0044,?,Dell Inspiron 16,Dell,Laptops,Gaming Laptop,Ryzen 7; 16GB; 512GB SSD,"₹35,337",24087.17,1 year(s),true
+P0045,DEL-LAP-0045,DELL SWIFT SLIM 5,Dell,Lap Top,Ultrabook,Core i5; 8GB; 1TB SSD,153133.59,120156.06,1 year(s),1
+P0046,LEN-LAP-0046,Lenovo ThinkBook Slim 5,lenovo,Laptops,Ultrabook,Ryzen 5; 8GB; 512GB SSD,"₹123,576","84,957.78",12 months,ACTIVE
+P0047,MSI-LAP-0047,MSI MacBook X,MSI,Laptops,na,Ryzen 5; 32GB; 512GB SSD,"INR 55,967.30","₹44,362",12M,Y
+P0048,MSI-LAP-0048,MSI Pavilion X,MSI,laptops,Ultrabook,Core i5; 8GB; 512GB SSD,"INR 88,467.79","Rs. 66,785/-",1 year(s),Y
+P0049,APP-LAP-0049,Apple ThinkBook 16,apple ,Laptops,Gaming Laptop,Ryzen 5; 16GB; 256GB SSD,"₹78,318",58451.39,12 months,true
+P0050,LEN-LAP-0050,Lenovo MacBook Pro, Lenovo,Laptops,Business Laptop,M2; 32GB; 1TB SSD,na,"35,664",12M,true
+P0051,LEN-LAP-0051,Lenovo Pavilion Slim 5,Lenovo,Laptops,Business Laptop,Ryzen 5; 16GB; 1TB SSD,"Rs. 57,643/-",48220.45,36M,Y
+P0052,DEL-LAP-0052,Dell Inspiron 16,  Dell  ,Laptops,Ultrabook,M3; 32GB; 256GB SSD,138098.53,89755.00,24,1
+P0053,SAM-TAB-0053,Samsung iPad 2023,samsung,tablet,Drawing Tablet,Wi-Fi; 256GB; 10.1-inch,48390.35,"Rs. 37,552/-",2 year(s),Y
+P0054,XIA-TAB-0054,Xiaomi Pad Pro,Xiaomi,TAB,Premium Tablet,Wi-Fi; 256GB; 11-inch,51668.64,38091.09,36M,true
+P0055,XIA-TAB-0055,Xiaomi Pad X, Xiaomi,Tablets,Premium Tablet,Wi-Fi; 64GB; 12.9-inch,"Rs. 88,558/-","INR 57,354.35",1 year(s),Y
+P0056,TPL-NET-0140,Lenovo MatePad 6,lenovo,TAB,Android Tablet,Wi-Fi + LTE; 64GB; 12.9-inch,"INR 52,353.59","36,952.05",6,N
+P0057,XIA-TAB-0057,Xiaomi MatePad 4,Xiaomi ,Tablets,Android Tablet,Wi-Fi + LTE; 128GB; 11-inch,76043.99,59 468.98,24,1
+P0058,REA-TAB-0058,Realme Tab 14,Realme,Tablets,Android Tablet,Wi-Fi + LTE; 64GB; 11-inch,"13,230.77",11189.66,12 months,ACTIVE
+P0059,XIA-TAB-0059,Xiaomi Pad Pro Pro,Xiaomi,Tablets,Premium Tablet,Wi-Fi + LTE; 128GB; 11-inch,"INR 15,398.04",11638.79,12M,Y
+P0060,SAM-TAB-0060,Samsung Pad Pro X,Samsung ,Tablets,Premium Tablet,Wi-Fi + LTE; 128GB; 12.9-inch,"INR 16,527.20","INR 12,935.70",12,ACTIVE
+P0061,LEN-TAB-0061,Lenovo Galaxy Tab 2023, Lenovo,Tablets,Android Tablet,Wi-Fi + LTE; 256GB; 11-inch,59380.68,49977.21,24,Yes
+P0062,LEN-TAB-0062,Lenovo Galaxy Tab 6,LENOVO,  Tablets  ,Android Tablet,,"94,156.91",75805.22,24 months,1
+P0063,LEN-TAB-0063,Lenovo Galaxy Tab 10,Lenovo,Tablets,Android Tablet,Wi-Fi; 128GB; 12.9-inch,"81,096.69","₹56,641",6M,ACTIVE
+P0064,SAM-TAB-0064,?,Samsung,TABLETS,N/A,5G; 128GB; 11-inch,20033.07,13097.48,12M,true
+P0065,REA-TAB-0065,Realme MatePad 2024,Realme ,TABLETS,Premium Tablet,Wi-Fi + LTE; 128GB; 11-inch,"42,425","34,055.25",24,No
+P0066,APP-TAB-0066,Apple iPad 4,Apple,tablets,Premium Tablet,Wi-Fi; 256GB; 10.1-inch,"25,700.88","19,606.52",1 year(s),Yes
+P0067,BOS-HEA-0067,Bose Rockerz 450,Bose,Headphones,Earbuds,Bluetooth 5.3; Spatial Audio,7922.07,"₹5,060",24 months,1
+P0068,ONE-HEA-0068,OnePlus Tune 720N,OnePlus,Head Phones,Gaming Headset,Wired; ANC,5458.70,"INR 4,064.71",24 months,ACTIVE
+P0069,APP-HEA-0069,Apple WH 450,Apple,Headphones,Wired Headphones,Bluetooth 5.2; Spatial Audio,9542.85,7506.47,1 year(s),Yes
+P0070,BOA-HEA-0070,boAt Soundcore Pro,boAt,Headphones,Wired Headphones,Bluetooth 5.3; Spatial Audio,"7,860.21","4,981",12,ACTIVE
+P0071,BOA-HEA-0071,boAt Rockerz 520, boAt,Headphones,Wireless Headphones,Bluetooth 5.2; ANC,9385.46,"6,910",1 year(s),Y
+P0072,NOI-HEA-0072,Noise QuietComfort 2,Noise,headphone,Wired Headphones,Wired; Spatial Audio,"Rs. 28,041/-",20220.71,1 year(s),1
+P0073,BOS-HEA-0073,Bose Tune 450,Bose,headphone,Wired Headphones,Wired; ANC,"INR 5,691.23",4560.05,1 year(s),true
+P0074,APP-HEA-0074,Apple QuietComfort X,Apple,Audio,Wired Headphones,Bluetooth 5.3; ANC,"₹8,635","INR 5,982.63",12M,Y
+P0075,ONE-HEA-0075,OnePlus Tune 520,ONEPLUS,HEADPHONES,Wired Headphones,Bluetooth 5.2; No ANC,"₹1,517",1243.68,12,1
+P0076,SON-HEA-0076,Sony WH X,Sony Corporation,headphone,Earbuds,Bluetooth 5.2; ANC,"₹3,118",2399.12,24 months,1
+P0077,BOA-HEA-0077,BOAT ROCKERZ 520,boAt,Headphones,Wired Headphones,Wired; Spatial Audio,"1,194",920.65,12 months,Y
+P0078,BOS-HEA-0078,Bose WH Pro,Bose,Headphones,Wired Headphones,Bluetooth 5.2; Spatial Audio,"₹1,868",1571.50,12,Y
+P0079,NOI-HEA-0079,Noise Tune X,Noise,Headphones,Earbuds,Bluetooth 5.3; No ANC,2306.85,"₹1,927",36M,ACTIVE
+P0080,SEN-HEA-0080,Sennheiser Soundcore Pro,sennheiser,Headphones,Gaming Headset,Wired; ANC,"37,468.66","27,365",1 year(s),Yes
+P0081,SON-HEA-0081,Sony Buds X,Sony Corporation,headphones,Wired Headphones,Bluetooth 5.2; Spatial Audio,"9,002",7559.94,1 year(s),Yes
+P0082,JBL-HEA-0082,NULL,JBL,Headphones,Wired Headphones,Bluetooth 5.2; No ANC,4404.20,3273.43,6,1
+P0083,SEN-HEA-0083,Sennheiser WH 520,Sennheiser,headphone,Wired Headphones,Wired; ANC,"2,934.49","₹2,450",6,Y
+P0084,BOA-HEA-0084,boAt QuietComfort 720N,boAt,Headphones,Wireless Headphones,Bluetooth 5.3; ANC,"INR 33,993.17","₹22,307",12M,Yes
+P0085,SAM-SMA-0085,Samsung Band 14,SAMSUNG,Smartwatches,Premium Watch,GPS; Retina; Water resistant,6535.36,5227.03,12,true
+P0086,FIT-SMA-0086,Fitbit GTR 12,Fitbit,Smartwatches,Premium Watch,Bluetooth; LCD; Water resistant,"3,808.90",2 425.64,12,Yes
+P0087,FIT-SMA-0087,Fitbit Galaxy Watch Pro,Fitbit,Smartwatches,Fitness Band,GPS; LCD; 5 ATM,4 852.51,4049.16,3 year(s),1
+P0088,GAR-SMA-0088,Garmin Watch Ultra,Garmin,Smartwatches ,Fitness Band,GPS; Retina; 5 ATM,"1,311.53",878.92,24,true
+P0089,SAM-SMA-0089,Samsung Galaxy Watch Plus,samsung,Smartwatches,Premium Watch,GPS + Cellular; Retina; 5 ATM,1203.88,921,1 year(s),ACTIVE
+P0090,GAR-SMA-0090,Garmin Band 4,Garmin,Smartwatches,Premium Watch,GPS + Cellular; Retina; 5 ATM,31142.87,"20,198",6,Yes
+P0091,APP-SMA-0091,Apple GTR 16,Apple,Smartwatches,Fitness Band,GPS; LCD; 5 ATM,"55,554",45200.33,12,ACTIVE
+P0092,SAM-SMA-0092,Samsung Galaxy Watch 7,SAMSUNG,Smart Watch,Premium Watch,Bluetooth; AMOLED; IP68,7874.92,6614.13,2 year(s),0
+P0093,GAR-SMA-0093,Garmin Watch 10,Garmin,Smartwatches,Premium Watch,GPS + Cellular; AMOLED; IP68,2748.60,1989.17,1 year(s),Yes
+P0094,AMA-SMA-0094,Amazfit Band 7,AMAZFIT,Smartwatches,Fitness Band,Bluetooth; Retina; Water resistant,10645.10,8848.11,24 months,1
+P0095,AMA-SMA-0095, Amazfit Band Plus,Amazfit,Smartwatches,Fitness Watch,GPS; LCD; Water resistant,2713.58,"Rs. 2,093/-",12,true
+P0096,APP-SMA-0096,Apple Watch Ultra,Apple,Smartwatches,Premium Watch,Bluetooth; LCD; IP68,44798.28,35403.66,6 months,Y
+P0097,BOA-SMA-0097,boAt Apple Watch Max,boAt,  Smartwatches  ,Fitness Watch,GPS; AMOLED; IP68,"₹3,226",2251.33,12 months,true
+P0098,FIT-SMA-0098,Fitbit Apple Watch 6,  Fitbit  ,Smartwatches,Fitness Band,GPS + Cellular; Retina; IP68,1259.21,835.55,1 year(s),1
+P0099,NOI-SMA-0099,Noise Apple Watch 9,Noise,Smartwatches,Fitness Watch,Bluetooth; LCD; Water resistant,21923.10,18299.54,na,true
+P0100,FIT-SMA-0100,Fitbit Galaxy Watch 7,Fitbit,Wearables,N/A,GPS + Cellular; LCD; Water resistant,18 992.40,na,24M,1
+P0101,DEL-MON-0101,Dell P-Series Max,Dell,Monitors,Office Monitor,32-inch; FHD; 75Hz,"31,471.13",26369.81,12,1
+P0102,SAM-MON-0102,Samsung P-Series 5,Samsung,Monitors,Office Monitor,27-inch; 4K UHD; 75Hz,"12,186.59","9,283.62",12 months,Y
+P0103,BEN-MON-0103,BenQ Smart Monitor Plus,BenQ,MONITORS,Gaming Monitor,27-inch; 4K UHD; 75Hz,"₹73,632","Rs. 52,964/-",12,1
+P0104,LG-MON-0104,LG SMART MONITOR 16, LG,  Monitors  ,Office Monitor,32-inch; QHD; 165Hz,"₹17,755",12507.70,12M,0
+P0105,ACE-MON-0105,Acer Smart Monitor 7,Acer,Monitors,Office Monitor,34-inch; FHD; 144Hz,?,"58,007.38",6,1
+P0106,ACE-MON-0106,Acer P-Series 16,acer, Monitors,4K Monitor,34-inch; 4K UHD; 144Hz,"28,878.52",23776.54,24,Yes
+P0107,SAM-MON-0107,Samsung ProArt X,Samsung,Monitors,4K Monitor,32-inch; QHD; 60Hz,"INR 12,752.58","8,204.94",12 months,Yes
+P0108,LG-MON-0108,LG P-Series 9,LG,Monitors,Gaming Monitor,24-inch; QHD; 144Hz,18886.52,14055.60,1 year(s),Y
+P0109,ACE-MON-0109,Acer Nitro 12,Acer,Monitors,Office Monitor,32-inch; 4K UHD; 75Hz,"Rs. 33,977/-","26,325.61",24,Yes
+P0110,VIE-MON-0110,VIEWSONIC P-SERIES ULTRA,ViewSonic,Monitors,4K Monitor,24-inch; FHD; 144Hz,"80,325.66",65 053.50,12 months,1
+P0111,DEL-MON-0111,Dell ProArt 2025,dell ,MONITORS,Gaming Monitor,32-inch; FHD; 75Hz,"INR 11,782.95","Rs. 8,082/-",12,1
+P0112,ACE-MON-0112,Acer UltraGear 12,Acer,Monitors,4K Monitor,24-inch; 4K UHD; 60Hz,71741.26,"INR 59,081.22",12 months,true
+P0113,DEL-MON-0113,Dell Odyssey 2025,Dell Inc.,Monitors,Office Monitor,27-inch; 4K UHD; 75Hz,"14,613.47","10,932",12M,ACTIVE
+P0114,SAM-MON-0114,Samsung P-Series 10,Samsung,Screen,Gaming Monitor,24-inch; 4K UHD; 165Hz,11339.31,8311.51,12M,Y
+P0115,SON-GAM-0115,Sony Cloud 9, Sony,Gaming,Gaming Accessory,Digital Edition; 1TB,32313.89,"23,707",12 months,ACTIVE
+P0116,MSI-LAP-0047,Razer Elite 2024,Razer,Gaming,Console,Digital Edition; 1TB,"Rs. 5,534/-","4,103.13",1 year(s),1
+P0117,RAZ-GAM-0117,Razer G-Series 5,razer,gaming,Console,Digital Edition; 1TB,"23,633.08","15,685.79",3 year(s),Y
+P0118,SON-GAM-0118,Sony Switch 2023,Sony,Gaming,Gaming Accessory,Wireless; 1TB,5594.42,"Rs. 3,576/-",12,Y
+P0119,LOG-GAM-0119, Logitech Elite 2024,logitech,gaming,Controller,Digital Edition; 512GB,"29,972.08","18,680.91",1 year(s),Yes
+P0120,LOG-GAM-0120,Logitech Elite 6,Logitech,GAMES,Gaming Accessory,Wired; 1TB,"₹2,595","2,104",12 months,true
+P0121,NIN-GAM-0121,Nintendo G-Series 16,  Nintendo  ,Gaming Devices,Controller,Wired; 512GB,"10,683.82","6,943.18",12 months,Y
+P0122,RAZ-GAM-0122,RAZER SWITCH ULTRA,Razer,Gaming,Console,Disc Edition; 512GB,"7,250.88",6094.72,-,Y
+P0123,NIN-GAM-0123,Nintendo Elite 4,Nintendo,Gaming,Gaming Accessory,Digital Edition; 256GB,"₹48,020",37 256.25,12 months,ACTIVE
+P0124,MIC-GAM-0124,Microsoft PlayStation Plus,  Microsoft  ,Gaming,Gaming Accessory,Digital Edition; 1TB,"₹60,866",45735.49,12M,Y
+P0125,RAZ-GAM-0125,Razer G-Series 10,Razer,Gaming,Gaming Accessory,Wired; 512GB,"4,455.03",2834.70,6,1
+P0126,HYP-GAM-0126,HyperX PlayStation 10,HyperX,Gaming,Console,Wired; 256GB,"₹5,241",3652.95,12M,1
+P0127,CRU-STO-0127,CRUCIAL PORTABLE SSD ULTRA,Crucial,Storage,USB Drive,1TB; SATA,₹470,364.50,12 months,true
+P0128,SAM-STO-0128,Samsung NVMe 9,Samsung,Storage,Memory Card,128GB; USB 3.2,"3,260.64","₹2,300",1 year(s),1
+P0129,CRU-STO-0129,Crucial NVMe 10,Crucial,Storage,SSD,2TB; USB 3.2,5275.97,"INR 4,482.85",12 months,1
+P0130,KIN-STO-0130,KINGSTON DATATRAVELER 6,Kingston, Storage,Memory Card,1TB; USB-C,"25,011","15,743.57",24M,Yes
+P0131,SEA-STO-0131,Seagate Extreme Max, Seagate,Storage,SSD,2TB; USB 3.2,"14,491","12,429",12,1
+P0132,KIN-STO-0132,Kingston Portable SSD 10,Kingston,storage,SSD,2TB; USB-C,na,1 924.22,12M,Y
+P0133,SEA-STO-0133,Seagate Extreme Plus,Seagate,Storage,SSD,256GB; NVMe,"Rs. 16,086/-","Rs. 11,278/-",12M,true
+P0134,CRU-STO-0134,Crucial NVMe 4,Crucial,Drives,USB Drive,1TB; USB 3.2,30455.57,?,12 months,ACTIVE
+P0135,WES-STO-0135,Western Digital NVMe 3,Western Digital,  Storage  ,Hard Drive,256GB; USB-C,8713.60,5426.93,36 months,1
+P0136,CRU-STO-0136,CRUCIAL EXTREME LITE,crucial,Storage,Memory Card,1TB; NVMe,12411.69,"Rs. 10,352/-",12,Yes
+P0137,KIN-STO-0137,Kingston Portable SSD 7,  Kingston  ,Storage,SSD,2TB; USB 3.2,"5,308.07",4434.99,24,1
+P0138,CRU-STO-0138,Crucial DataTraveler Lite,Crucial,storage,Hard Drive,2TB; USB 3.2,-,Rs. 288/-,6M,Yes
+P0139,ASU-NET-0139, ASUS Mesh 9,ASUS,Networking,Wi-Fi Router,Wi-Fi 6; Gigabit,"INR 1,818.84",1473.04,1 year(s),Yes
+P0140,TPL-NET-0140,TP-Link DIR 2023,TP-Link,Networking,Wi-Fi Router,Wi-Fi 7; Tri band,"INR 2,054.68","₹1,680",12,1
+P0141,NET-NET-0141,Netgear DIR 3,Netgear,networking,Wi-Fi Router,Wi-Fi 6; Dual band,N/A,"Rs. 4,327/-",24M,1
+P0142,TEN-NET-0142,Tenda Mesh 9,  Tenda  ,Networking,Mesh System,Wi-Fi 7; Dual band,15116.60,12003.27,12M,Y
+P0143,DLI-NET-0143,D-Link Router 3,D-Link, Networking,Mesh System,Wi-Fi 6E; Gigabit,3845.50,"INR 3,185.99",12M,Y
+P0144,DLI-NET-0144,D-Link Router 14, D-Link, Networking,Wi-Fi Router,Wi-Fi 7; Gigabit,"INR 7,800.69",4975.42,12,true
+P0145,TPL-NET-0145,Tp-Link Dir 12,TP-Link,NETWORKING,Mesh System,Wi-Fi 7; Dual band,1252.27,820.63,12M,Yes
+P0146,ASU-NET-0146,ASUS Nighthawk Lite,ASUS,networking,Network Adapter,Wi-Fi 7; Tri band,"₹16,603","₹13,099",1 year(s),1
+P0147,BEL-ACC-0147,Belkin Wireless Mouse 12,Belkin,Accessories,Keyboard,Wireless; Black,"5,012","Rs. 4,310/-",36,1
+P0148,APP-ACC-0148,Apple Cable 16,Apple,Accessories ,Cable,Wireless; Black,5337.51,3808.93,36 months,ACTIVE
+P0149,BOA-ACC-0149,boAt Dock Ultra,boAt ,Accessories,Keyboard,"20,000mAh; Grey",15241.41,12309.63,2 year(s),true
+P0150,AMA-ACC-0150,Amazon Basics Fast Charger 14,Amazon Basics,  Accessories  ,Keyboard,Mechanical; Grey,"5,568.09","4,630.69",1 year(s),1
+P0151,BEL-ACC-0151,Belkin Dock 2024,Belkin,Accessories,Cable,100W; Black,1139.78,858.60,12,true
+P0152,LOG-ACC-0152,logitech power bank 2023,Logitech,  Accessories  ,Keyboard,USB-C; Grey,182.18,122.07,6 months,true
+P0153,BOA-ACC-0153,boAt Wireless Mouse Plus,boAt ,accessory,Charger,100W; Black,-,"INR 9,310.64",12 months,Yes
+P0154,AMA-ACC-0154,Amazon Basics Fast Charger 10,Amazon Basics,Accessories,Cable,65W; White,"₹7,957",6025.94,12M,ACTIVE
+P0155,LOG-ACC-0155,Logitech Wireless Mouse Plus,Logitech,Accessories,Keyboard,Mechanical; Black,?,₹826,6,1
+P0156,APP-ACC-0156,Apple Fast Charger 6,apple ,Accessories,Adapter,100W; Black,506.66,₹385,12M,ACTIVE
+P0157,POR-ACC-0157,Portronics Power Bank 3,Portronics,Accessories,Power Bank,Wireless; White,"13,055.00","10,099.28",1 year(s),1
+P0158,ASU-LAP-0038,Amazon Basics Fast Charger 2023,Amazon Basics,Accessories,Charger,Wireless; Grey,245.36,165.96,12M,inactive
+P0159,ANK-ACC-0159,Anker Wireless Mouse X,Anker,Accessories,Adapter,USB-C; Grey,2338.47,1858.33,12 months,ACTIVE
+P0160,AMA-ACC-0160,Amazon Basics Fast Charger 4,AMAZON BASICS,Accessories,Keyboard,65W; Grey,"Rs. 4,033/-",3 216.89,36 months,1
+P0161,ANK-ACC-0161,Anker Wireless Mouse 3,ANKER,Accessories ,Power Bank,USB-C; Grey,818.14,697.43,12M,Yes
+P0162,AMA-ACC-0162,Amazon Basics USB-C Hub 6,Amazon Basics,Accessories ,Power Bank,"20,000mAh; White",335.92,Rs. 257/-,12M,ACTIVE
