@@ -81,6 +81,14 @@ DeviceDock/
 
 The project was completed in four major stages.
 
+### End-to-End Project Architecture
+
+The following diagram illustrates the complete DeviceDock workflow, 
+including data ingestion, Medallion Architecture, Python analysis, 
+and Power BI reporting.
+
+<img width="2102" height="1362" alt="DeviceDock_Project_Flow (2) drawio" src="https://github.com/user-attachments/assets/63d582ec-5647-441d-91ab-3da2ea8842ba" />
+
 ### Stage 1: Data Warehousing – PostgreSQL
 
 Implemented the Medallion Architecture using three layers.
@@ -162,6 +170,12 @@ The dashboard covers:
 - Store and geographical performance.
 - Sales channel analysis.
 - Discount and revenue analysis.
+
+#### Dashboard Preview
+
+The following screenshot showcases the interactive Power BI dashboard developed for DeviceDock, highlighting key business KPIs, sales trends, product performance, customer segments, and regional analysis.
+
+<img width="1155" height="647" alt="Screenshot 2026-11-13 134242" src="https://github.com/user-attachments/assets/901f47fe-a339-4f27-94ff-e9ff1ccb978d" />
 
 ---
 
